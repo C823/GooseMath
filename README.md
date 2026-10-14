@@ -1,0 +1,2 @@
+# GooseMath
+duckmath but better
