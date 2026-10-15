@@ -1,3 +1,2 @@
-GooseMath v1.0.7
-Background: /cubes.svg
-Wordmark: /goosemath.svg
+GooseMath v1.0.9
+Fix jsDelivr CDN image loading blocked by saved-page CSP.
