@@ -1,2 +1,1 @@
-GooseMath v1.0.9
-Fix jsDelivr CDN image loading blocked by saved-page CSP.
+GooseMath v1.0.10 — all game icons use jsDelivr /img3/{slug}.webp exclusively.

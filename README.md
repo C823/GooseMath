@@ -18,3 +18,8 @@ Both `index.html` and `game.html` now allow jsDelivr CDN images, as well as the 
 The game page also allows same-origin `fetch('games.json')` with `connect-src 'self'`, which was previously blocked.
 Some icons may still fall back if the actual CDN filename is not present; those names need a per-game mapping.
 Upload the replacement site files to the repository root. Existing Worker v1.0.4 needs no changes.
+
+## v1.0.10 — CDN-only game icons
+Every game card icon and every entry in `games.json` uses:
+`https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/{game-slug}.webp`
+All local icon fallbacks were removed, including the homepage `error` handler and the game detail page's `fallbackLogo` handling. If a CDN filename is absent, its icon will be missing instead of silently showing an older local icon. Check CDN filename availability separately.
