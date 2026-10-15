@@ -1,1 +1,3 @@
-GooseMath v1.0.6 — blue theme, goose.png artwork, logo.jpg favicon
+GooseMath v1.0.7
+Background: /cubes.svg
+Wordmark: /goosemath.svg
