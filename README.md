@@ -1,9 +1,19 @@
-# GooseMath v1.0.12 — October 14, 2026
+# GooseMath v1.0.14 - ZIP deployment
 
-Changes:
-- Homepage and game page promo image (`img.egg-image`) now loads `/promo.jpg` from the root of your GitHub repository, replacing embedded Base64 image data.
-- Added a small visible version/date label to the bottom right of both pages and updated existing copyright version labels.
-- Preserved the jsDelivr game icon fallback sequence, blue palette, `cubes.svg`, `wordmark.svg`, game navigation, and `games.json`.
+Upload this ZIP file UNEXTRACTED into the GitHub repository at:
+`C823/GooseMath/assets/GooseMath-Integrated-v1.0.14.zip`
 
-## Deployment
-Upload the contents of this ZIP to the root of `C823/GooseMath`, replacing the previous files. **Also upload a file named `promo.jpg` to the repository root.** The image is referenced but not included in this archive because it was not supplied. Existing GitHub-backed Cloudflare Worker needs no change.
+Then install the companion Cloudflare Worker from `GooseMath-Worker-v1.0.14.txt` in your Worker editor.
+The Worker automatically discovers the highest semantic-version GooseMath-Integrated-v*.zip file under `/assets/` and serves each file inside it.
+
+IMPORTANT: The release archive deliberately uses ZIP STORED (no compression) so the Worker can extract byte ranges without external npm libraries. For future releases retain this ZIP packaging method.
+
+Existing root files `cubes.svg`, `wordmark.svg`, `goose.png`, `logo.jpg`, and `promo.jpg` are served directly from the GitHub repo as fallbacks if absent from the ZIP.
+
+On a new release: upload only the new ZIP to `/assets/`; the Worker selects it after cache refresh (up to 5 minutes).
+
+Current limitation: ZIP loading transfers the complete archive to the Worker on cache misses; consider Cloudflare R2 or Workers Static Assets for higher traffic.
+
+## v1.0.14
+
+The goose and GooseMath wordmark in the top-left logo are now a real link to `/` on both the homepage and game pages.

@@ -1,3 +1,2 @@
-GooseMath v1.0.12
-Release date: 2026-10-14
-Promo image: /promo.jpg
+GooseMath v1.0.14 - Oct 15, 2026
+ZIP-based Cloudflare Worker deployment.
