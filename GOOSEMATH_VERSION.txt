@@ -1,1 +1,3 @@
-GooseMath v1.0.11 — jsDelivr image fallback: .webp → .jpg → .png
+GooseMath v1.0.12
+Release date: 2026-10-14
+Promo image: /promo.jpg

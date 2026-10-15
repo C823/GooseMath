@@ -1,33 +1,9 @@
-# GooseMath v1.0.8
+# GooseMath v1.0.12 — October 14, 2026
 
-Updated `index.html` and `game.html` to use assets served by the same Cloudflare Worker from the GitHub repository:
+Changes:
+- Homepage and game page promo image (`img.egg-image`) now loads `/promo.jpg` from the root of your GitHub repository, replacing embedded Base64 image data.
+- Added a small visible version/date label to the bottom right of both pages and updated existing copyright version labels.
+- Preserved the jsDelivr game icon fallback sequence, blue palette, `cubes.svg`, `wordmark.svg`, game navigation, and `games.json`.
 
-- `cubes.svg`: background image for the main page and sidebar (replaces embedded base64 cube SVG and v1.0.6 gradient override).
-- `wordmark.svg`: text wordmark in the logo tile (previously a hidden duplicate goose image).
-- `goose.png`: goose mascot image (also fixes the game page embedded mascot).
-- `logo.jpg`: favicon (unchanged).
-
-**Upload `cubes.svg`, `wordmark.svg`, `goose.png`, and `logo.jpg` to the root of the repository alongside `index.html`, `game.html` and `games.json`.** The SVG assets are linked, not bundled, because you said they are in the repository.
-
-Existing game card links, metadata and CDN icon URLs are unchanged. The existing Cloudflare Worker serves these root SVG files if its GitHub asset routing is enabled.
-
-## v1.0.9 — CDN icons now allowed by the browser
-The saved SingleFile HTML pages contained restrictive Content Security Policy (CSP) metadata.
-Although the icons pointed to `https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/GAMENAME.webp`, the policy blocked images from jsDelivr.
-Both `index.html` and `game.html` now allow jsDelivr CDN images, as well as the GitHub Raw host for the GooseMath logo.
-The game page also allows same-origin `fetch('games.json')` with `connect-src 'self'`, which was previously blocked.
-Some icons may still fall back if the actual CDN filename is not present; those names need a per-game mapping.
-Upload the replacement site files to the repository root. Existing Worker v1.0.4 needs no changes.
-
-## v1.0.10 — CDN-only game icons
-Every game card icon and every entry in `games.json` uses:
-`https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/{game-slug}.webp`
-All local icon fallbacks were removed, including the homepage `error` handler and the game detail page's `fallbackLogo` handling. If a CDN filename is absent, its icon will be missing instead of silently showing an older local icon. Check CDN filename availability separately.
-
-## v1.0.11 — Multiple image formats
-For game icons on both `index.html` and `game.html`, GooseMath tries the following URLs in order:
-1. `https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/GAMENAME.webp`
-2. `https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/GAMENAME.jpg`
-3. `https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/GAMENAME.png`
-
-The browser triggers the next format only after the previous image fails. The icon always stays on the jsDelivr `img3` CDN; missing all three results in a broken image (not a local fallback). Existing names and links are unchanged.
+## Deployment
+Upload the contents of this ZIP to the root of `C823/GooseMath`, replacing the previous files. **Also upload a file named `promo.jpg` to the repository root.** The image is referenced but not included in this archive because it was not supplied. Existing GitHub-backed Cloudflare Worker needs no change.
