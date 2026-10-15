@@ -1,0 +1,3650 @@
+{
+  "galatrix": {
+    "name": "Galatrix",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/galatrix.webp",
+    "gameUrl": "",
+    "description": "Galatrix",
+    "fallbackLogo": "assets/game-icons/galatrix.webp"
+  },
+  "eagle-craft": {
+    "name": "Eagle Craft",
+    "creator": "Markus",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/eagle-craft.webp",
+    "gameUrl": "",
+    "description": "Eagle Craft",
+    "fallbackLogo": "assets/game-icons/eagle-craft.jpg"
+  },
+  "gun-spin": {
+    "name": "Gun Spin",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/gun-spin.webp",
+    "gameUrl": "",
+    "description": "Gun Spin",
+    "fallbackLogo": "assets/game-icons/gun-spin.jpg"
+  },
+  "golf-orbit": {
+    "name": "Golf Orbit",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/golf-orbit.webp",
+    "gameUrl": "",
+    "description": "Golf Orbit",
+    "fallbackLogo": "assets/game-icons/golf-orbit.jpg"
+  },
+  "ducky-clicker": {
+    "name": "Ducky Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/ducky-clicker.webp",
+    "gameUrl": "",
+    "description": "Ducky Clicker",
+    "fallbackLogo": "assets/game-icons/ducky-clicker.webp"
+  },
+  "love-tester": {
+    "name": "Love Tester",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/love-tester.webp",
+    "gameUrl": "",
+    "description": "Love Tester",
+    "fallbackLogo": "assets/game-icons/love-tester.jpg"
+  },
+  "highway-traffic": {
+    "name": "Highway Traffic",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/highway-traffic.webp",
+    "gameUrl": "",
+    "description": "Highway Traffic",
+    "fallbackLogo": "assets/game-icons/highway-traffic.jpg"
+  },
+  "granny": {
+    "name": "Granny",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/granny.webp",
+    "gameUrl": "",
+    "description": "Granny",
+    "fallbackLogo": "assets/game-icons/granny.webp"
+  },
+  "steal-brainrot-heist": {
+    "name": "Steal Brainrot Heist",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/steal-brainrot-heist.webp",
+    "gameUrl": "",
+    "description": "Steal Brainrot Heist",
+    "fallbackLogo": "assets/game-icons/steal-brainrot-heist.webp"
+  },
+  "steal-brainrot-duel": {
+    "name": "Steal Brainrot Duel",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/steal-brainrot-duel.webp",
+    "gameUrl": "",
+    "description": "Steal Brainrot Duel",
+    "fallbackLogo": "assets/game-icons/steal-brainrot-duel.webp"
+  },
+  "dublix": {
+    "name": "Dublix",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/dublix.webp",
+    "gameUrl": "",
+    "description": "Dublix",
+    "fallbackLogo": "assets/game-icons/dublix.webp"
+  },
+  "troll-level": {
+    "name": "Troll Level",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/troll-level.webp",
+    "gameUrl": "",
+    "description": "Troll Level",
+    "fallbackLogo": "assets/game-icons/troll-level.webp"
+  },
+  "steal-brainrots-multiplayer": {
+    "name": "Steal Brainrots Multiplayer",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/steal-brainrots-multiplayer.webp",
+    "gameUrl": "",
+    "description": "Steal Brainrots Multiplayer",
+    "fallbackLogo": "assets/game-icons/steal-brainrots-multiplayer.webp"
+  },
+  "ragdoll-archers": {
+    "name": "Ragdoll Archers",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/ragdoll-archers.webp",
+    "gameUrl": "",
+    "description": "Ragdoll Archers",
+    "fallbackLogo": "assets/game-icons/ragdoll-archers.jpg"
+  },
+  "five-nights-at-freddys": {
+    "name": "Five Nights At Freddys",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/five-nights-at-freddys.webp",
+    "gameUrl": "",
+    "description": "Five Nights At Freddys",
+    "fallbackLogo": "assets/game-icons/five-nights-at-freddys.webp"
+  },
+  "su-battle-royale": {
+    "name": "Su Battle Royale",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/su-battle-royale.webp",
+    "gameUrl": "",
+    "description": "Su Battle Royale",
+    "fallbackLogo": "assets/game-icons/su-battle-royale.jpg"
+  },
+  "snow-rider-3d": {
+    "name": "Snow Rider 3d",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/snow-rider-3d.webp",
+    "gameUrl": "",
+    "description": "Snow Rider 3d",
+    "fallbackLogo": "assets/game-icons/snow-rider-3d.webp"
+  },
+  "drift-king": {
+    "name": "Drift King",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/drift-king.webp",
+    "gameUrl": "",
+    "description": "Drift King",
+    "fallbackLogo": "assets/game-icons/drift-king.jpg"
+  },
+  "escape-car": {
+    "name": "Escape Car",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/escape-car.webp",
+    "gameUrl": "",
+    "description": "Escape Car",
+    "fallbackLogo": "assets/game-icons/escape-car.jpg"
+  },
+  "deadly-descent": {
+    "name": "Deadly Descent",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/deadly-descent.webp",
+    "gameUrl": "",
+    "description": "Deadly Descent",
+    "fallbackLogo": "assets/game-icons/deadly-descent.jpg"
+  },
+  "steal-a-brainrot": {
+    "name": "Steal A Brainrot",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/steal-a-brainrot.webp",
+    "gameUrl": "",
+    "description": "Steal A Brainrot",
+    "fallbackLogo": "assets/game-icons/steal-a-brainrot.jpg"
+  },
+  "geometry-vector": {
+    "name": "Geometry Vector",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/geometry-vector.webp",
+    "gameUrl": "",
+    "description": "Geometry Vector",
+    "fallbackLogo": "assets/game-icons/geometry-vector.webp"
+  },
+  "twerk-race-3d": {
+    "name": "Twerk Race 3d",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/twerk-race-3d.webp",
+    "gameUrl": "",
+    "description": "Twerk Race 3d",
+    "fallbackLogo": "assets/game-icons/twerk-race-3d.webp"
+  },
+  "davo": {
+    "name": "Davo",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/davo.webp",
+    "gameUrl": "",
+    "description": "Davo",
+    "fallbackLogo": "assets/game-icons/davo.webp"
+  },
+  "duckcraft-world": {
+    "name": "Duckcraft World",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/duckcraft-world.webp",
+    "gameUrl": "",
+    "description": "Duckcraft World",
+    "fallbackLogo": "assets/game-icons/duckcraft-world.webp"
+  },
+  "moto-x3m": {
+    "name": "Moto X3m",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/moto-x3m.webp",
+    "gameUrl": "",
+    "description": "Moto X3m",
+    "fallbackLogo": "assets/game-icons/moto-x3m.webp"
+  },
+  "stack-fire-ball": {
+    "name": "Stack Fire Ball",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/stack-fire-ball.webp",
+    "gameUrl": "",
+    "description": "Stack Fire Ball",
+    "fallbackLogo": "assets/game-icons/stack-fire-ball.jpg"
+  },
+  "stickman-gta-city": {
+    "name": "Stickman Gta City",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/stickman-gta-city.webp",
+    "gameUrl": "",
+    "description": "Stickman Gta City",
+    "fallbackLogo": "assets/game-icons/stickman-gta-city.jpg"
+  },
+  "among-us": {
+    "name": "Among Us",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/among-us.webp",
+    "gameUrl": "",
+    "description": "Among Us",
+    "fallbackLogo": "assets/game-icons/among-us.webp"
+  },
+  "gta-simulator": {
+    "name": "Gta Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/gta-simulator.webp",
+    "gameUrl": "",
+    "description": "Gta Simulator",
+    "fallbackLogo": "assets/game-icons/gta-simulator.jpg"
+  },
+  "ultrakill": {
+    "name": "Ultrakill",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/ultrakill.webp",
+    "gameUrl": "",
+    "description": "Ultrakill",
+    "fallbackLogo": "assets/game-icons/ultrakill.jpg"
+  },
+  "five-nights-at-freddys-2": {
+    "name": "Five Nights At Freddys 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/five-nights-at-freddys-2.webp",
+    "gameUrl": "",
+    "description": "Five Nights At Freddys 2",
+    "fallbackLogo": "assets/game-icons/five-nights-at-freddys-2.webp"
+  },
+  "sh3llsh0ck": {
+    "name": "Sh3llsh0ck",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/sh3llsh0ck.webp",
+    "gameUrl": "",
+    "description": "Sh3llsh0ck",
+    "fallbackLogo": "assets/game-icons/sh3llsh0ck.webp"
+  },
+  "ragdoll-hit": {
+    "name": "Ragdoll Hit",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/ragdoll-hit.webp",
+    "gameUrl": "",
+    "description": "Ragdoll Hit",
+    "fallbackLogo": "assets/game-icons/ragdoll-hit.jpg"
+  },
+  "crazy-cattle-3d-pro": {
+    "name": "Crazy Cattle 3d Pro",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/crazy-cattle-3d-pro.webp",
+    "gameUrl": "",
+    "description": "Crazy Cattle 3d Pro",
+    "fallbackLogo": "assets/game-icons/crazy-cattle-3d-pro.webp"
+  },
+  "friday-night-funkin": {
+    "name": "Friday Night Funkin",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/friday-night-funkin.webp",
+    "gameUrl": "",
+    "description": "Friday Night Funkin",
+    "fallbackLogo": "assets/game-icons/friday-night-funkin.webp"
+  },
+  "backflip-challenge": {
+    "name": "Backflip Challenge",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/backflip-challenge.webp",
+    "gameUrl": "",
+    "description": "Backflip Challenge",
+    "fallbackLogo": "assets/game-icons/backflip-challenge.webp"
+  },
+  "run-3-freezenova": {
+    "name": "Run 3 Freezenova",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/run-3-freezenova.webp",
+    "gameUrl": "",
+    "description": "Run 3 Freezenova",
+    "fallbackLogo": "assets/game-icons/run-3-freezenova.webp"
+  },
+  "thorns-and-ballons": {
+    "name": "Thorns And Ballons",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/thorns-and-ballons.webp",
+    "gameUrl": "",
+    "description": "Thorns And Ballons",
+    "fallbackLogo": "assets/game-icons/thorns-and-ballons.jpg"
+  },
+  "cookie-clicker": {
+    "name": "Cookie Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cookie-clicker.webp",
+    "gameUrl": "",
+    "description": "Cookie Clicker",
+    "fallbackLogo": "assets/game-icons/cookie-clicker.webp"
+  },
+  "bridge-race": {
+    "name": "Bridge Race",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/bridge-race.webp",
+    "gameUrl": "",
+    "description": "Bridge Race",
+    "fallbackLogo": "assets/game-icons/bridge-race.jpg"
+  },
+  "obby-but-youre-on-a-bike": {
+    "name": "Obby But Youre On A Bike",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/obby-but-youre-on-a-bike.webp",
+    "gameUrl": "",
+    "description": "Obby But Youre On A Bike",
+    "fallbackLogo": "assets/game-icons/obby-but-youre-on-a-bike.jpg"
+  },
+  "2d-fortnite": {
+    "name": "2d Fortnite",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/2d-fortnite.webp",
+    "gameUrl": "",
+    "description": "2d Fortnite",
+    "fallbackLogo": "assets/game-icons/2d-fortnite.webp"
+  },
+  "drift-hunters-pro": {
+    "name": "Drift Hunters Pro",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/drift-hunters-pro.webp",
+    "gameUrl": "",
+    "description": "Drift Hunters Pro",
+    "fallbackLogo": "assets/game-icons/drift-hunters-pro.jpg"
+  },
+  "super-liquid-soccer": {
+    "name": "Super Liquid Soccer",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/super-liquid-soccer.webp",
+    "gameUrl": "",
+    "description": "Super Liquid Soccer",
+    "fallbackLogo": "assets/game-icons/super-liquid-soccer.jpg"
+  },
+  "geometry-dash": {
+    "name": "Geometry Dash",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/geometry-dash.webp",
+    "gameUrl": "",
+    "description": "Geometry Dash",
+    "fallbackLogo": "assets/game-icons/geometry-dash.jpg"
+  },
+  "cubecraft-survival": {
+    "name": "Cubecraft Survival",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cubecraft-survival.webp",
+    "gameUrl": "",
+    "description": "Cubecraft Survival",
+    "fallbackLogo": "assets/game-icons/cubecraft-survival.webp"
+  },
+  "baseball-bros": {
+    "name": "Baseball Bros",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/baseball-bros.webp",
+    "gameUrl": "",
+    "description": "Baseball Bros",
+    "fallbackLogo": "assets/game-icons/baseball-bros.jpg"
+  },
+  "escape-car-2": {
+    "name": "Escape Car 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/escape-car-2.webp",
+    "gameUrl": "",
+    "description": "Escape Car 2",
+    "fallbackLogo": "assets/game-icons/escape-car-2.webp"
+  },
+  "global-guesser": {
+    "name": "Global Guesser",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/global-guesser.webp",
+    "gameUrl": "",
+    "description": "Global Guesser",
+    "fallbackLogo": "assets/game-icons/global-guesser.webp"
+  },
+  "99-nights-forest-survival": {
+    "name": "99 Nights Forest Survival",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/99-nights-forest-survival.webp",
+    "gameUrl": "",
+    "description": "99 Nights Forest Survival",
+    "fallbackLogo": "assets/game-icons/99-nights-forest-survival.webp"
+  },
+  "stickman-parkour": {
+    "name": "Stickman Parkour",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/stickman-parkour.webp",
+    "gameUrl": "",
+    "description": "Stickman Parkour",
+    "fallbackLogo": "assets/game-icons/stickman-parkour.webp"
+  },
+  "the-binding-of-isaac": {
+    "name": "The Binding Of Isaac",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/the-binding-of-isaac.webp",
+    "gameUrl": "",
+    "description": "The Binding Of Isaac",
+    "fallbackLogo": "assets/game-icons/the-binding-of-isaac.webp"
+  },
+  "worldguessr": {
+    "name": "Worldguessr",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/worldguessr.webp",
+    "gameUrl": "",
+    "description": "Worldguessr",
+    "fallbackLogo": "assets/game-icons/worldguessr.jpg"
+  },
+  "solar-smash": {
+    "name": "Solar Smash",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/solar-smash.webp",
+    "gameUrl": "",
+    "description": "Solar Smash",
+    "fallbackLogo": "assets/game-icons/solar-smash.webp"
+  },
+  "survival-karts": {
+    "name": "Survival Karts",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/survival-karts.webp",
+    "gameUrl": "",
+    "description": "Survival Karts",
+    "fallbackLogo": "assets/game-icons/survival-karts.jpg"
+  },
+  "golf-bit": {
+    "name": "Golf Bit",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/golf-bit.webp",
+    "gameUrl": "",
+    "description": "Golf Bit",
+    "fallbackLogo": "assets/game-icons/golf-bit.webp"
+  },
+  "baldis-basics": {
+    "name": "Baldis Basics",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/baldis-basics.webp",
+    "gameUrl": "",
+    "description": "Baldis Basics",
+    "fallbackLogo": "assets/game-icons/baldis-basics.webp"
+  },
+  "cluster-reborn": {
+    "name": "Cluster Reborn",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cluster-reborn.webp",
+    "gameUrl": "",
+    "description": "Cluster Reborn",
+    "fallbackLogo": "assets/game-icons/cluster-reborn.webp"
+  },
+  "pizza-tower": {
+    "name": "Pizza Tower",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/pizza-tower.webp",
+    "gameUrl": "",
+    "description": "Pizza Tower",
+    "fallbackLogo": "assets/game-icons/pizza-tower.jpg"
+  },
+  "velocity-rush": {
+    "name": "Velocity Rush",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/velocity-rush.webp",
+    "gameUrl": "",
+    "description": "Velocity Rush",
+    "fallbackLogo": "assets/game-icons/velocity-rush.webp"
+  },
+  "wheelie-bike": {
+    "name": "Wheelie Bike",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/wheelie-bike.webp",
+    "gameUrl": "",
+    "description": "Wheelie Bike",
+    "fallbackLogo": ""
+  },
+  "crazy-roll": {
+    "name": "Crazy Roll",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/crazy-roll.webp",
+    "gameUrl": "",
+    "description": "Crazy Roll",
+    "fallbackLogo": "assets/game-icons/crazy-roll.webp"
+  },
+  "football-bros": {
+    "name": "Football Bros",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/football-bros.webp",
+    "gameUrl": "",
+    "description": "Football Bros",
+    "fallbackLogo": "assets/game-icons/football-bros.jpg"
+  },
+  "tomodachi-collection": {
+    "name": "Tomodachi Collection",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/tomodachi-collection.webp",
+    "gameUrl": "",
+    "description": "Tomodachi Collection",
+    "fallbackLogo": "assets/game-icons/tomodachi-collection.webp"
+  },
+  "basketball-stars": {
+    "name": "Basketball Stars",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/basketball-stars.webp",
+    "gameUrl": "",
+    "description": "Basketball Stars",
+    "fallbackLogo": "assets/game-icons/basketball-stars.webp"
+  },
+  "pokemon-emerald": {
+    "name": "Pokemon Emerald",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/pokemon-emerald.webp",
+    "gameUrl": "",
+    "description": "Pokemon Emerald",
+    "fallbackLogo": "assets/game-icons/pokemon-emerald.jpg"
+  },
+  "real-flight-simulator": {
+    "name": "Real Flight Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/real-flight-simulator.webp",
+    "gameUrl": "",
+    "description": "Real Flight Simulator",
+    "fallbackLogo": "assets/game-icons/real-flight-simulator.jpg"
+  },
+  "snek-io": {
+    "name": "Snek Io",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/snek-io.webp",
+    "gameUrl": "",
+    "description": "Snek Io",
+    "fallbackLogo": "assets/game-icons/snek-io.webp"
+  },
+  "life-simulator": {
+    "name": "Life Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/life-simulator.webp",
+    "gameUrl": "",
+    "description": "Life Simulator",
+    "fallbackLogo": "assets/game-icons/life-simulator.jpg"
+  },
+  "doki-doki-literature-club": {
+    "name": "Doki Doki Literature Club",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/doki-doki-literature-club.webp",
+    "gameUrl": "",
+    "description": "Doki Doki Literature Club",
+    "fallbackLogo": "assets/game-icons/doki-doki-literature-club.jpg"
+  },
+  "brookhaven": {
+    "name": "Brookhaven",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/brookhaven.webp",
+    "gameUrl": "",
+    "description": "Brookhaven",
+    "fallbackLogo": "assets/game-icons/brookhaven.jpg"
+  },
+  "eagle-duckcraft": {
+    "name": "Eagle Duckcraft",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/eagle-duckcraft.webp",
+    "gameUrl": "",
+    "description": "Eagle Duckcraft",
+    "fallbackLogo": "assets/game-icons/eagle-duckcraft.webp"
+  },
+  "jungle-mart": {
+    "name": "Jungle Mart",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/jungle-mart.webp",
+    "gameUrl": "",
+    "description": "Jungle Mart",
+    "fallbackLogo": "assets/game-icons/jungle-mart.webp"
+  },
+  "99-nights-in-the-forest": {
+    "name": "99 Nights In The Forest",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/99-nights-in-the-forest.webp",
+    "gameUrl": "",
+    "description": "99 Nights In The Forest",
+    "fallbackLogo": "assets/game-icons/99-nights-in-the-forest.webp"
+  },
+  "clash-royale": {
+    "name": "Clash Royale",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/clash-royale.webp",
+    "gameUrl": "",
+    "description": "Clash Royale",
+    "fallbackLogo": "assets/game-icons/clash-royale.jpg"
+  },
+  "smash-karts": {
+    "name": "Smash Karts",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/smash-karts.webp",
+    "gameUrl": "",
+    "description": "Smash Karts",
+    "fallbackLogo": "assets/game-icons/smash-karts.webp"
+  },
+  "blocky-puzzle": {
+    "name": "Blocky Puzzle",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/blocky-puzzle.webp",
+    "gameUrl": "",
+    "description": "Blocky Puzzle",
+    "fallbackLogo": "assets/game-icons/blocky-puzzle.jpg"
+  },
+  "undertale-yellow": {
+    "name": "Undertale Yellow",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/undertale-yellow.webp",
+    "gameUrl": "",
+    "description": "Undertale Yellow",
+    "fallbackLogo": "assets/game-icons/undertale-yellow.webp"
+  },
+  "1v1.lol": {
+    "name": "1v1.lol",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/1v1.lol.webp",
+    "gameUrl": "",
+    "description": "1v1.lol",
+    "fallbackLogo": "assets/game-icons/1v1.lol.webp"
+  },
+  "geometry-dash-scratch": {
+    "name": "Geometry Dash Scratch",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/geometry-dash-scratch.webp",
+    "gameUrl": "",
+    "description": "Geometry Dash Scratch",
+    "fallbackLogo": "assets/game-icons/geometry-dash-scratch.webp"
+  },
+  "spider-dude-parkour": {
+    "name": "Spider Dude Parkour",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/spider-dude-parkour.webp",
+    "gameUrl": "",
+    "description": "Spider Dude Parkour",
+    "fallbackLogo": "assets/game-icons/spider-dude-parkour.jpg"
+  },
+  "cod-zombies-portable": {
+    "name": "Cod Zombies Portable",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cod-zombies-portable.webp",
+    "gameUrl": "",
+    "description": "Cod Zombies Portable",
+    "fallbackLogo": "assets/game-icons/cod-zombies-portable.jpg"
+  },
+  "masked-special-forces": {
+    "name": "Masked Special Forces",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/masked-special-forces.webp",
+    "gameUrl": "",
+    "description": "Masked Special Forces",
+    "fallbackLogo": "assets/game-icons/masked-special-forces.jpg"
+  },
+  "ants-clicker": {
+    "name": "Ants Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/ants-clicker.webp",
+    "gameUrl": "",
+    "description": "Ants Clicker",
+    "fallbackLogo": "assets/game-icons/ants-clicker.webp"
+  },
+  "drift-hunters-2024": {
+    "name": "Drift Hunters 2024",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/drift-hunters-2024.webp",
+    "gameUrl": "",
+    "description": "Drift Hunters 2024",
+    "fallbackLogo": "assets/game-icons/drift-hunters-2024.jpg"
+  },
+  "police-chase-drifter": {
+    "name": "Police Chase Drifter",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/police-chase-drifter.webp",
+    "gameUrl": "",
+    "description": "Police Chase Drifter",
+    "fallbackLogo": "assets/game-icons/police-chase-drifter.jpg"
+  },
+  "bloonstd-5": {
+    "name": "Bloonstd 5",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/bloonstd-5.webp",
+    "gameUrl": "",
+    "description": "Bloonstd 5",
+    "fallbackLogo": "assets/game-icons/bloonstd-5.jpg"
+  },
+  "five-nights-at-freddys-4": {
+    "name": "Five Nights At Freddys 4",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/five-nights-at-freddys-4.webp",
+    "gameUrl": "",
+    "description": "Five Nights At Freddys 4",
+    "fallbackLogo": "assets/game-icons/five-nights-at-freddys-4.webp"
+  },
+  "hollow-knight": {
+    "name": "Hollow Knight",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/hollow-knight.webp",
+    "gameUrl": "",
+    "description": "Hollow Knight",
+    "fallbackLogo": "assets/game-icons/hollow-knight.jpg"
+  },
+  "grow-a-garden": {
+    "name": "Grow A Garden",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/grow-a-garden.webp",
+    "gameUrl": "",
+    "description": "Grow A Garden",
+    "fallbackLogo": "assets/game-icons/grow-a-garden.jpg"
+  },
+  "archer-hero": {
+    "name": "Archer Hero",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/archer-hero.webp",
+    "gameUrl": "",
+    "description": "Archer Hero",
+    "fallbackLogo": "assets/game-icons/archer-hero.jpg"
+  },
+  "fast-food-manager": {
+    "name": "Fast Food Manager",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fast-food-manager.webp",
+    "gameUrl": "",
+    "description": "Fast Food Manager",
+    "fallbackLogo": "assets/game-icons/fast-food-manager.webp"
+  },
+  "five-nights-at-freddys-pizzeria-simulator": {
+    "name": "Five Nights At Freddys Pizzeria Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/five-nights-at-freddys-pizzeria-simulator.webp",
+    "gameUrl": "",
+    "description": "Five Nights At Freddys Pizzeria Simulator",
+    "fallbackLogo": "assets/game-icons/five-nights-at-freddys-pizzeria-simulator.jpg"
+  },
+  "hole.io": {
+    "name": "Hole.io",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/hole.io.webp",
+    "gameUrl": "",
+    "description": "Hole.io",
+    "fallbackLogo": "assets/game-icons/hole.io.webp"
+  },
+  "basket-bros": {
+    "name": "Basket Bros",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/basket-bros.webp",
+    "gameUrl": "",
+    "description": "Basket Bros",
+    "fallbackLogo": "assets/game-icons/basket-bros.jpg"
+  },
+  "race-survival-arena-king": {
+    "name": "Race Survival Arena King",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/race-survival-arena-king.webp",
+    "gameUrl": "",
+    "description": "Race Survival Arena King",
+    "fallbackLogo": "assets/game-icons/race-survival-arena-king.jpg"
+  },
+  "soviet-sniper": {
+    "name": "Soviet Sniper",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/soviet-sniper.webp",
+    "gameUrl": "",
+    "description": "Soviet Sniper",
+    "fallbackLogo": "assets/game-icons/soviet-sniper.webp"
+  },
+  "fighter-aircraft-pilot": {
+    "name": "Fighter Aircraft Pilot",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fighter-aircraft-pilot.webp",
+    "gameUrl": "",
+    "description": "Fighter Aircraft Pilot",
+    "fallbackLogo": "assets/game-icons/fighter-aircraft-pilot.webp"
+  },
+  "rainbow-friends-return": {
+    "name": "Rainbow Friends Return",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/rainbow-friends-return.webp",
+    "gameUrl": "",
+    "description": "Rainbow Friends Return",
+    "fallbackLogo": "assets/game-icons/rainbow-friends-return.jpg"
+  },
+  "funny-shooter-2": {
+    "name": "Funny Shooter 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/funny-shooter-2.webp",
+    "gameUrl": "",
+    "description": "Funny Shooter 2",
+    "fallbackLogo": "assets/game-icons/funny-shooter-2.webp"
+  },
+  "spiral-roll": {
+    "name": "Spiral Roll",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/spiral-roll.webp",
+    "gameUrl": "",
+    "description": "Spiral Roll",
+    "fallbackLogo": "assets/game-icons/spiral-roll.webp"
+  },
+  "stickman-destruction": {
+    "name": "Stickman Destruction",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/stickman-destruction.webp",
+    "gameUrl": "",
+    "description": "Stickman Destruction",
+    "fallbackLogo": "assets/game-icons/stickman-destruction.jpg"
+  },
+  "incredibox": {
+    "name": "Incredibox",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/incredibox.webp",
+    "gameUrl": "",
+    "description": "Incredibox",
+    "fallbackLogo": "assets/game-icons/incredibox.webp"
+  },
+  "edys-car-simulator": {
+    "name": "Edys Car Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/edys-car-simulator.webp",
+    "gameUrl": "",
+    "description": "Edys Car Simulator",
+    "fallbackLogo": "assets/game-icons/edys-car-simulator.jpg"
+  },
+  "pokemon-red": {
+    "name": "Pokemon Red",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/pokemon-red.webp",
+    "gameUrl": "",
+    "description": "Pokemon Red",
+    "fallbackLogo": "assets/game-icons/pokemon-red.jpg"
+  },
+  "super-mario-64": {
+    "name": "Super Mario 64",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/super-mario-64.webp",
+    "gameUrl": "",
+    "description": "Super Mario 64",
+    "fallbackLogo": "assets/game-icons/super-mario-64.webp"
+  },
+  "happy-wheels": {
+    "name": "Happy Wheels",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/happy-wheels.webp",
+    "gameUrl": "",
+    "description": "Happy Wheels",
+    "fallbackLogo": "assets/game-icons/happy-wheels.webp"
+  },
+  "darkness-survivors": {
+    "name": "Darkness Survivors",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/darkness-survivors.webp",
+    "gameUrl": "",
+    "description": "Darkness Survivors",
+    "fallbackLogo": "assets/game-icons/darkness-survivors.jpg"
+  },
+  "chess": {
+    "name": "Chess",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/chess.webp",
+    "gameUrl": "",
+    "description": "Chess",
+    "fallbackLogo": "assets/game-icons/chess.webp"
+  },
+  "ink-game": {
+    "name": "Ink Game",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/ink-game.webp",
+    "gameUrl": "",
+    "description": "Ink Game",
+    "fallbackLogo": "assets/game-icons/ink-game.webp"
+  },
+  "drift-rider": {
+    "name": "Drift Rider",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/drift-rider.webp",
+    "gameUrl": "",
+    "description": "Drift Rider",
+    "fallbackLogo": "assets/game-icons/drift-rider.jpg"
+  },
+  "warstrike": {
+    "name": "Warstrike",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/warstrike.webp",
+    "gameUrl": "",
+    "description": "Warstrike",
+    "fallbackLogo": "assets/game-icons/warstrike.jpg"
+  },
+  "arrow-master": {
+    "name": "Arrow Master",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/arrow-master.webp",
+    "gameUrl": "",
+    "description": "Arrow Master",
+    "fallbackLogo": "assets/game-icons/arrow-master.webp"
+  },
+  "escaping-the-prison": {
+    "name": "Escaping The Prison",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/escaping-the-prison.webp",
+    "gameUrl": "",
+    "description": "Escaping The Prison",
+    "fallbackLogo": "assets/game-icons/escaping-the-prison.webp"
+  },
+  "penalty-king": {
+    "name": "Penalty King",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/penalty-king.webp",
+    "gameUrl": "",
+    "description": "Penalty King",
+    "fallbackLogo": "assets/game-icons/penalty-king.webp"
+  },
+  "capybara-clicker": {
+    "name": "Capybara Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/capybara-clicker.webp",
+    "gameUrl": "",
+    "description": "Capybara Clicker",
+    "fallbackLogo": "assets/game-icons/capybara-clicker.jpg"
+  },
+  "fast-food-rush": {
+    "name": "Fast Food Rush",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fast-food-rush.webp",
+    "gameUrl": "",
+    "description": "Fast Food Rush",
+    "fallbackLogo": "assets/game-icons/fast-food-rush.jpg"
+  },
+  "subway-runner-barcelona": {
+    "name": "Subway Runner Barcelona",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/subway-runner-barcelona.webp",
+    "gameUrl": "",
+    "description": "Subway Runner Barcelona",
+    "fallbackLogo": "assets/game-icons/subway-runner-barcelona.jpg"
+  },
+  "pixel-path": {
+    "name": "Pixel Path",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/pixel-path.webp",
+    "gameUrl": "",
+    "description": "Pixel Path",
+    "fallbackLogo": "assets/game-icons/pixel-path.webp"
+  },
+  "fnaf-world": {
+    "name": "Fnaf World",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fnaf-world.webp",
+    "gameUrl": "",
+    "description": "Fnaf World",
+    "fallbackLogo": "assets/game-icons/fnaf-world.webp"
+  },
+  "five-nights-at-freddys-3": {
+    "name": "Five Nights At Freddys 3",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/five-nights-at-freddys-3.webp",
+    "gameUrl": "",
+    "description": "Five Nights At Freddys 3",
+    "fallbackLogo": "assets/game-icons/five-nights-at-freddys-3.webp"
+  },
+  "burrito-bison": {
+    "name": "Burrito Bison",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/burrito-bison.webp",
+    "gameUrl": "",
+    "description": "Burrito Bison",
+    "fallbackLogo": "assets/game-icons/burrito-bison.jpg"
+  },
+  "moto-x3m-winter": {
+    "name": "Moto X3m Winter",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/moto-x3m-winter.webp",
+    "gameUrl": "",
+    "description": "Moto X3m Winter",
+    "fallbackLogo": "assets/game-icons/moto-x3m-winter.webp"
+  },
+  "backrooms": {
+    "name": "Backrooms",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/backrooms.webp",
+    "gameUrl": "",
+    "description": "Backrooms",
+    "fallbackLogo": "assets/game-icons/backrooms.webp"
+  },
+  "hero-dragon-power": {
+    "name": "Hero Dragon Power",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/hero-dragon-power.webp",
+    "gameUrl": "",
+    "description": "Hero Dragon Power",
+    "fallbackLogo": "assets/game-icons/hero-dragon-power.jpg"
+  },
+  "checkout-frenzy": {
+    "name": "Checkout Frenzy",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/checkout-frenzy.webp",
+    "gameUrl": "",
+    "description": "Checkout Frenzy",
+    "fallbackLogo": "assets/game-icons/checkout-frenzy.jpg"
+  },
+  "drift-boss": {
+    "name": "Drift Boss",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/drift-boss.webp",
+    "gameUrl": "",
+    "description": "Drift Boss",
+    "fallbackLogo": "assets/game-icons/drift-boss.webp"
+  },
+  "spacebar-clicker": {
+    "name": "Spacebar Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/spacebar-clicker.webp",
+    "gameUrl": "",
+    "description": "Spacebar Clicker",
+    "fallbackLogo": "assets/game-icons/spacebar-clicker.jpg"
+  },
+  "fnf-mods": {
+    "name": "Fnf Mods",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fnf-mods.webp",
+    "gameUrl": "",
+    "description": "Fnf Mods",
+    "fallbackLogo": "assets/game-icons/fnf-mods.webp"
+  },
+  "spartahoppers": {
+    "name": "Spartahoppers",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/spartahoppers.webp",
+    "gameUrl": "",
+    "description": "Spartahoppers",
+    "fallbackLogo": "assets/game-icons/spartahoppers.webp"
+  },
+  "basket-random-pro": {
+    "name": "Basket Random Pro",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/basket-random-pro.webp",
+    "gameUrl": "",
+    "description": "Basket Random Pro",
+    "fallbackLogo": "assets/game-icons/basket-random-pro.webp"
+  },
+  "block-blast": {
+    "name": "Block Blast",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/block-blast.webp",
+    "gameUrl": "",
+    "description": "Block Blast",
+    "fallbackLogo": "assets/game-icons/block-blast.jpg"
+  },
+  "plants-vs-zombies": {
+    "name": "Plants Vs Zombies",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/plants-vs-zombies.webp",
+    "gameUrl": "",
+    "description": "Plants Vs Zombies",
+    "fallbackLogo": "assets/game-icons/plants-vs-zombies.webp"
+  },
+  "sprunki": {
+    "name": "Sprunki",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/sprunki.webp",
+    "gameUrl": "",
+    "description": "Sprunki",
+    "fallbackLogo": "assets/game-icons/sprunki.jpg"
+  },
+  "escape-tsunami-for-brainrots": {
+    "name": "Escape Tsunami For Brainrots",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/escape-tsunami-for-brainrots.webp",
+    "gameUrl": "",
+    "description": "Escape Tsunami For Brainrots",
+    "fallbackLogo": "assets/game-icons/escape-tsunami-for-brainrots.webp"
+  },
+  "crazycattle3d": {
+    "name": "Crazycattle3d",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/crazycattle3d.webp",
+    "gameUrl": "",
+    "description": "Crazycattle3d",
+    "fallbackLogo": "assets/game-icons/crazycattle3d.jpg"
+  },
+  "armed-forces-io": {
+    "name": "Armed Forces Io",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/armed-forces-io.webp",
+    "gameUrl": "",
+    "description": "Armed Forces Io",
+    "fallbackLogo": "assets/game-icons/armed-forces-io.jpg"
+  },
+  "bit-planes": {
+    "name": "Bit Planes",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/bit-planes.webp",
+    "gameUrl": "",
+    "description": "Bit Planes",
+    "fallbackLogo": "assets/game-icons/bit-planes.webp"
+  },
+  "fps-strike": {
+    "name": "Fps Strike",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fps-strike.webp",
+    "gameUrl": "",
+    "description": "Fps Strike",
+    "fallbackLogo": "assets/game-icons/fps-strike.jpg"
+  },
+  "roblox-cloud": {
+    "name": "Roblox Cloud",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/roblox-cloud.webp",
+    "gameUrl": "",
+    "description": "Roblox Cloud",
+    "fallbackLogo": "assets/game-icons/roblox-cloud.webp"
+  },
+  "five-nights-at-freddys-5": {
+    "name": "Five Nights At Freddys 5",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/five-nights-at-freddys-5.webp",
+    "gameUrl": "",
+    "description": "Five Nights At Freddys 5",
+    "fallbackLogo": "assets/game-icons/five-nights-at-freddys-5.webp"
+  },
+  "geometry-escape": {
+    "name": "Geometry Escape",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/geometry-escape.webp",
+    "gameUrl": "",
+    "description": "Geometry Escape",
+    "fallbackLogo": "assets/game-icons/geometry-escape.jpg"
+  },
+  "papas-freezeria": {
+    "name": "Papas Freezeria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-freezeria.webp",
+    "gameUrl": "",
+    "description": "Papas Freezeria",
+    "fallbackLogo": "assets/game-icons/papas-freezeria.webp"
+  },
+  "plants-vs-zombie-hybrid-story-mod": {
+    "name": "Plants Vs Zombie Hybrid Story Mod",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/plants-vs-zombie-hybrid-story-mod.webp",
+    "gameUrl": "",
+    "description": "Plants Vs Zombie Hybrid Story Mod",
+    "fallbackLogo": "assets/game-icons/plants-vs-zombie-hybrid-story-mod.webp"
+  },
+  "pocket-champions": {
+    "name": "Pocket Champions",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/pocket-champions.webp",
+    "gameUrl": "",
+    "description": "Pocket Champions",
+    "fallbackLogo": "assets/game-icons/pocket-champions.jpg"
+  },
+  "the-impossible-quiz": {
+    "name": "The Impossible Quiz",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/the-impossible-quiz.webp",
+    "gameUrl": "",
+    "description": "The Impossible Quiz",
+    "fallbackLogo": "assets/game-icons/the-impossible-quiz.webp"
+  },
+  "plants-vs-brainrots": {
+    "name": "Plants Vs Brainrots",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/plants-vs-brainrots.webp",
+    "gameUrl": "",
+    "description": "Plants Vs Brainrots",
+    "fallbackLogo": "assets/game-icons/plants-vs-brainrots.jpg"
+  },
+  "uno": {
+    "name": "Uno",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/uno.webp",
+    "gameUrl": "",
+    "description": "Uno",
+    "fallbackLogo": "assets/game-icons/uno.webp"
+  },
+  "traffic-jam": {
+    "name": "Traffic Jam",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/traffic-jam.webp",
+    "gameUrl": "",
+    "description": "Traffic Jam",
+    "fallbackLogo": "assets/game-icons/traffic-jam.jpg"
+  },
+  "temple-run-2": {
+    "name": "Temple Run 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/temple-run-2.webp",
+    "gameUrl": "",
+    "description": "Temple Run 2",
+    "fallbackLogo": "assets/game-icons/temple-run-2.webp"
+  },
+  "animal-crossing": {
+    "name": "Animal Crossing",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/animal-crossing.webp",
+    "gameUrl": "",
+    "description": "Animal Crossing",
+    "fallbackLogo": "assets/game-icons/animal-crossing.webp"
+  },
+  "basketball-legends": {
+    "name": "Basketball Legends",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/basketball-legends.webp",
+    "gameUrl": "",
+    "description": "Basketball Legends",
+    "fallbackLogo": "assets/game-icons/basketball-legends.jpg"
+  },
+  "five-nights-at-freddys-web": {
+    "name": "Five Nights At Freddys Web",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/five-nights-at-freddys-web.webp",
+    "gameUrl": "",
+    "description": "Five Nights At Freddys Web",
+    "fallbackLogo": "assets/game-icons/five-nights-at-freddys-web.jpg"
+  },
+  "dune": {
+    "name": "Dune",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/dune.webp",
+    "gameUrl": "",
+    "description": "Dune",
+    "fallbackLogo": "assets/game-icons/dune.jpg"
+  },
+  "drift-hunters": {
+    "name": "Drift Hunters",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/drift-hunters.webp",
+    "gameUrl": "",
+    "description": "Drift Hunters",
+    "fallbackLogo": "assets/game-icons/drift-hunters.jpg"
+  },
+  "poppy-playtime": {
+    "name": "Poppy Playtime",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/poppy-playtime.webp",
+    "gameUrl": "",
+    "description": "Poppy Playtime",
+    "fallbackLogo": "assets/game-icons/poppy-playtime.webp"
+  },
+  "eggy-car": {
+    "name": "Eggy Car",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/eggy-car.webp",
+    "gameUrl": "",
+    "description": "Eggy Car",
+    "fallbackLogo": "assets/game-icons/eggy-car.webp"
+  },
+  "elastic-man": {
+    "name": "Elastic Man",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/elastic-man.webp",
+    "gameUrl": "",
+    "description": "Elastic Man",
+    "fallbackLogo": "assets/game-icons/elastic-man.jpg"
+  },
+  "ovo": {
+    "name": "Ovo",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/ovo.webp",
+    "gameUrl": "",
+    "description": "Ovo",
+    "fallbackLogo": "assets/game-icons/ovo.jpg"
+  },
+  "madalin-stunt-cars-pro": {
+    "name": "Madalin Stunt Cars Pro",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/madalin-stunt-cars-pro.webp",
+    "gameUrl": "",
+    "description": "Madalin Stunt Cars Pro",
+    "fallbackLogo": "assets/game-icons/madalin-stunt-cars-pro.jpg"
+  },
+  "tap-tap-shots": {
+    "name": "Tap Tap Shots",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/tap-tap-shots.webp",
+    "gameUrl": "",
+    "description": "Tap Tap Shots",
+    "fallbackLogo": "assets/game-icons/tap-tap-shots.jpg"
+  },
+  "stealing-the-diamond": {
+    "name": "Stealing The Diamond",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/stealing-the-diamond.webp",
+    "gameUrl": "",
+    "description": "Stealing The Diamond",
+    "fallbackLogo": "assets/game-icons/stealing-the-diamond.webp"
+  },
+  "moto-x3m-3": {
+    "name": "Moto X3m 3",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/moto-x3m-3.webp",
+    "gameUrl": "",
+    "description": "Moto X3m 3",
+    "fallbackLogo": "assets/game-icons/moto-x3m-3.jpg"
+  },
+  "zombie-derby-pixel-survival": {
+    "name": "Zombie Derby Pixel Survival",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/zombie-derby-pixel-survival.webp",
+    "gameUrl": "",
+    "description": "Zombie Derby Pixel Survival",
+    "fallbackLogo": "assets/game-icons/zombie-derby-pixel-survival.jpg"
+  },
+  "moto-x3m-spooky-land": {
+    "name": "Moto X3m Spooky Land",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/moto-x3m-spooky-land.webp",
+    "gameUrl": "",
+    "description": "Moto X3m Spooky Land",
+    "fallbackLogo": ""
+  },
+  "moto-x3m-pool-party": {
+    "name": "Moto X3m Pool Party",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/moto-x3m-pool-party.webp",
+    "gameUrl": "",
+    "description": "Moto X3m Pool Party",
+    "fallbackLogo": ""
+  },
+  "duck-life-4": {
+    "name": "Duck Life 4",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/duck-life-4.webp",
+    "gameUrl": "",
+    "description": "Duck Life 4",
+    "fallbackLogo": "assets/game-icons/duck-life-4.webp"
+  },
+  "cs-online": {
+    "name": "Cs Online",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cs-online.webp",
+    "gameUrl": "",
+    "description": "Cs Online",
+    "fallbackLogo": "assets/game-icons/cs-online.webp"
+  },
+  "growden-io": {
+    "name": "Growden Io",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/growden-io.webp",
+    "gameUrl": "",
+    "description": "Growden Io",
+    "fallbackLogo": "assets/game-icons/growden-io.jpg"
+  },
+  "fall-brainrots": {
+    "name": "Fall Brainrots",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fall-brainrots.webp",
+    "gameUrl": "",
+    "description": "Fall Brainrots",
+    "fallbackLogo": "assets/game-icons/fall-brainrots.webp"
+  },
+  "super-mario-bros": {
+    "name": "Super Mario Bros",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/super-mario-bros.webp",
+    "gameUrl": "",
+    "description": "Super Mario Bros",
+    "fallbackLogo": "assets/game-icons/super-mario-bros.webp"
+  },
+  "bob-the-robber-4": {
+    "name": "Bob The Robber 4",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/bob-the-robber-4.webp",
+    "gameUrl": "",
+    "description": "Bob The Robber 4",
+    "fallbackLogo": "assets/game-icons/bob-the-robber-4.jpg"
+  },
+  "fish-it": {
+    "name": "Fish It",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fish-it.webp",
+    "gameUrl": "",
+    "description": "Fish It",
+    "fallbackLogo": "assets/game-icons/fish-it.jpg"
+  },
+  "football-legends": {
+    "name": "Football Legends",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/football-legends.webp",
+    "gameUrl": "",
+    "description": "Football Legends",
+    "fallbackLogo": "assets/game-icons/football-legends.jpg"
+  },
+  "fnf-garcello": {
+    "name": "Fnf Garcello",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fnf-garcello.webp",
+    "gameUrl": "",
+    "description": "Fnf Garcello",
+    "fallbackLogo": "assets/game-icons/fnf-garcello.webp"
+  },
+  "we-become-what-we-behold": {
+    "name": "We Become What We Behold",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/we-become-what-we-behold.webp",
+    "gameUrl": "",
+    "description": "We Become What We Behold",
+    "fallbackLogo": "assets/game-icons/we-become-what-we-behold.webp"
+  },
+  "kart-bros": {
+    "name": "Kart Bros",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/kart-bros.webp",
+    "gameUrl": "",
+    "description": "Kart Bros",
+    "fallbackLogo": "assets/game-icons/kart-bros.jpg"
+  },
+  "burnout-city": {
+    "name": "Burnout City",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/burnout-city.webp",
+    "gameUrl": "",
+    "description": "Burnout City",
+    "fallbackLogo": "assets/game-icons/burnout-city.jpg"
+  },
+  "fps-simulator": {
+    "name": "Fps Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fps-simulator.webp",
+    "gameUrl": "",
+    "description": "Fps Simulator",
+    "fallbackLogo": "assets/game-icons/fps-simulator.jpg"
+  },
+  "wrestle-bros": {
+    "name": "Wrestle Bros",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/wrestle-bros.webp",
+    "gameUrl": "",
+    "description": "Wrestle Bros",
+    "fallbackLogo": ""
+  },
+  "madalin-stunt-cars-2": {
+    "name": "Madalin Stunt Cars 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/madalin-stunt-cars-2.webp",
+    "gameUrl": "",
+    "description": "Madalin Stunt Cars 2",
+    "fallbackLogo": "assets/game-icons/madalin-stunt-cars-2.webp"
+  },
+  "head-soccer": {
+    "name": "Head Soccer",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/head-soccer.webp",
+    "gameUrl": "",
+    "description": "Head Soccer",
+    "fallbackLogo": "assets/game-icons/head-soccer.jpg"
+  },
+  "doge-miner": {
+    "name": "Doge Miner",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/doge-miner.webp",
+    "gameUrl": "",
+    "description": "Doge Miner",
+    "fallbackLogo": "assets/game-icons/doge-miner.jpg"
+  },
+  "learn-2-fly-2": {
+    "name": "Learn 2 Fly 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/learn-2-fly-2.webp",
+    "gameUrl": "",
+    "description": "Learn 2 Fly 2",
+    "fallbackLogo": "assets/game-icons/learn-2-fly-2.webp"
+  },
+  "classic-craft": {
+    "name": "Classic Craft",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/classic-craft.webp",
+    "gameUrl": "",
+    "description": "Classic Craft",
+    "fallbackLogo": "assets/game-icons/classic-craft.webp"
+  },
+  "time-shooter-2": {
+    "name": "Time Shooter 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/time-shooter-2.webp",
+    "gameUrl": "",
+    "description": "Time Shooter 2",
+    "fallbackLogo": "assets/game-icons/time-shooter-2.jpg"
+  },
+  "highway-moto": {
+    "name": "Highway Moto",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/highway-moto.webp",
+    "gameUrl": "",
+    "description": "Highway Moto",
+    "fallbackLogo": "assets/game-icons/highway-moto.webp"
+  },
+  "penalty-challenge": {
+    "name": "Penalty Challenge",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/penalty-challenge.webp",
+    "gameUrl": "",
+    "description": "Penalty Challenge",
+    "fallbackLogo": "assets/game-icons/penalty-challenge.jpg"
+  },
+  "pixelmon-town": {
+    "name": "Pixelmon Town",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/pixelmon-town.webp",
+    "gameUrl": "",
+    "description": "Pixelmon Town",
+    "fallbackLogo": "assets/game-icons/pixelmon-town.webp"
+  },
+  "playground-latest-version": {
+    "name": "Playground Latest Version",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/playground-latest-version.webp",
+    "gameUrl": "",
+    "description": "Playground Latest Version",
+    "fallbackLogo": "assets/game-icons/playground-latest-version.jpg"
+  },
+  "rooftop-snipers": {
+    "name": "Rooftop Snipers",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/rooftop-snipers.webp",
+    "gameUrl": "",
+    "description": "Rooftop Snipers",
+    "fallbackLogo": "assets/game-icons/rooftop-snipers.webp"
+  },
+  "jetpack-joyride": {
+    "name": "Jetpack Joyride",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/jetpack-joyride.webp",
+    "gameUrl": "",
+    "description": "Jetpack Joyride",
+    "fallbackLogo": "assets/game-icons/jetpack-joyride.webp"
+  },
+  "steal-a-brainrot-temu-version": {
+    "name": "Steal A Brainrot Temu Version",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/steal-a-brainrot-temu-version.webp",
+    "gameUrl": "",
+    "description": "Steal A Brainrot Temu Version",
+    "fallbackLogo": "assets/game-icons/steal-a-brainrot-temu-version.jpg"
+  },
+  "time-shooter-swat": {
+    "name": "Time Shooter Swat",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/time-shooter-swat.webp",
+    "gameUrl": "",
+    "description": "Time Shooter Swat",
+    "fallbackLogo": "assets/game-icons/time-shooter-swat.jpg"
+  },
+  "bloxorz": {
+    "name": "Bloxorz",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/bloxorz.webp",
+    "gameUrl": "",
+    "description": "Bloxorz",
+    "fallbackLogo": "assets/game-icons/bloxorz.webp"
+  },
+  "pac-man": {
+    "name": "Pac Man",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/pac-man.webp",
+    "gameUrl": "",
+    "description": "Pac Man",
+    "fallbackLogo": "assets/game-icons/pac-man.webp"
+  },
+  "electric-man-2": {
+    "name": "Electric Man 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/electric-man-2.webp",
+    "gameUrl": "",
+    "description": "Electric Man 2",
+    "fallbackLogo": "assets/game-icons/electric-man-2.webp"
+  },
+  "staggering-beauty": {
+    "name": "Staggering Beauty",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/staggering-beauty.webp",
+    "gameUrl": "",
+    "description": "Staggering Beauty",
+    "fallbackLogo": "assets/game-icons/staggering-beauty.jpg"
+  },
+  "doom-1": {
+    "name": "Doom 1",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/doom-1.webp",
+    "gameUrl": "",
+    "description": "Doom 1",
+    "fallbackLogo": "assets/game-icons/doom-1.webp"
+  },
+  "portal": {
+    "name": "Portal",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/portal.webp",
+    "gameUrl": "",
+    "description": "Portal",
+    "fallbackLogo": "assets/game-icons/portal.webp"
+  },
+  "fire-and-water": {
+    "name": "Fire And Water",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fire-and-water.webp",
+    "gameUrl": "",
+    "description": "Fire And Water",
+    "fallbackLogo": "assets/game-icons/fire-and-water.webp"
+  },
+  "crazy-karts": {
+    "name": "Crazy Karts",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/crazy-karts.webp",
+    "gameUrl": "",
+    "description": "Crazy Karts",
+    "fallbackLogo": "assets/game-icons/crazy-karts.webp"
+  },
+  "crazy-cars": {
+    "name": "Crazy Cars",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/crazy-cars.webp",
+    "gameUrl": "",
+    "description": "Crazy Cars",
+    "fallbackLogo": "assets/game-icons/crazy-cars.webp"
+  },
+  "cheese-chompers-3d": {
+    "name": "Cheese Chompers 3d",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cheese-chompers-3d.webp",
+    "gameUrl": "",
+    "description": "Cheese Chompers 3d",
+    "fallbackLogo": "assets/game-icons/cheese-chompers-3d.jpg"
+  },
+  "battle-simulator": {
+    "name": "Battle Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/battle-simulator.webp",
+    "gameUrl": "",
+    "description": "Battle Simulator",
+    "fallbackLogo": "assets/game-icons/battle-simulator.webp"
+  },
+  "cs-surf": {
+    "name": "Cs Surf",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cs-surf.webp",
+    "gameUrl": "",
+    "description": "Cs Surf",
+    "fallbackLogo": "assets/game-icons/cs-surf.webp"
+  },
+  "duck-life": {
+    "name": "Duck Life",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/duck-life.webp",
+    "gameUrl": "",
+    "description": "Duck Life",
+    "fallbackLogo": "assets/game-icons/duck-life.webp"
+  },
+  "papas-tacomia": {
+    "name": "Papas Tacomia",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-tacomia.webp",
+    "gameUrl": "",
+    "description": "Papas Tacomia",
+    "fallbackLogo": "assets/game-icons/papas-tacomia.webp"
+  },
+  "papas-scooperia": {
+    "name": "Papas Scooperia",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-scooperia.webp",
+    "gameUrl": "",
+    "description": "Papas Scooperia",
+    "fallbackLogo": "assets/game-icons/papas-scooperia.webp"
+  },
+  "stick-battle": {
+    "name": "Stick Battle",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/stick-battle.webp",
+    "gameUrl": "",
+    "description": "Stick Battle",
+    "fallbackLogo": "assets/game-icons/stick-battle.jpg"
+  },
+  "the-worlds-hardest-game": {
+    "name": "The Worlds Hardest Game",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/the-worlds-hardest-game.webp",
+    "gameUrl": "",
+    "description": "The Worlds Hardest Game",
+    "fallbackLogo": "assets/game-icons/the-worlds-hardest-game.webp"
+  },
+  "red-ball-4": {
+    "name": "Red Ball 4",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/red-ball-4.webp",
+    "gameUrl": "",
+    "description": "Red Ball 4",
+    "fallbackLogo": "assets/game-icons/red-ball-4.jpg"
+  },
+  "bffs-black-friday-collection": {
+    "name": "Bffs Black Friday Collection",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/bffs-black-friday-collection.webp",
+    "gameUrl": "",
+    "description": "Bffs Black Friday Collection",
+    "fallbackLogo": "assets/game-icons/bffs-black-friday-collection.webp"
+  },
+  "car-football": {
+    "name": "Car Football",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/car-football.webp",
+    "gameUrl": "",
+    "description": "Car Football",
+    "fallbackLogo": "assets/game-icons/car-football.jpg"
+  },
+  "super-car-driving": {
+    "name": "Super Car Driving",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/super-car-driving.webp",
+    "gameUrl": "",
+    "description": "Super Car Driving",
+    "fallbackLogo": "assets/game-icons/super-car-driving.jpg"
+  },
+  "cluster-rush": {
+    "name": "Cluster Rush",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cluster-rush.webp",
+    "gameUrl": "",
+    "description": "Cluster Rush",
+    "fallbackLogo": "assets/game-icons/cluster-rush.webp"
+  },
+  "tanuki-sunset": {
+    "name": "Tanuki Sunset",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/tanuki-sunset.webp",
+    "gameUrl": "",
+    "description": "Tanuki Sunset",
+    "fallbackLogo": "assets/game-icons/tanuki-sunset.webp"
+  },
+  "run-3": {
+    "name": "Run 3",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/run-3.webp",
+    "gameUrl": "",
+    "description": "Run 3",
+    "fallbackLogo": "assets/game-icons/run-3.webp"
+  },
+  "highway-driver": {
+    "name": "Highway Driver",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/highway-driver.webp",
+    "gameUrl": "",
+    "description": "Highway Driver",
+    "fallbackLogo": "assets/game-icons/highway-driver.webp"
+  },
+  "infiltrating-the-airship": {
+    "name": "Infiltrating The Airship",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/infiltrating-the-airship.webp",
+    "gameUrl": "",
+    "description": "Infiltrating The Airship",
+    "fallbackLogo": "assets/game-icons/infiltrating-the-airship.webp"
+  },
+  "papas-bakeria": {
+    "name": "Papas Bakeria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-bakeria.webp",
+    "gameUrl": "",
+    "description": "Papas Bakeria",
+    "fallbackLogo": "assets/game-icons/papas-bakeria.webp"
+  },
+  "duckcraft": {
+    "name": "Duckcraft",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/duckcraft.webp",
+    "gameUrl": "",
+    "description": "Duckcraft",
+    "fallbackLogo": "assets/game-icons/duckcraft.webp"
+  },
+  "fleeing-the-complex": {
+    "name": "Fleeing The Complex",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fleeing-the-complex.webp",
+    "gameUrl": "",
+    "description": "Fleeing The Complex",
+    "fallbackLogo": "assets/game-icons/fleeing-the-complex.webp"
+  },
+  "papas-donuteria": {
+    "name": "Papas Donuteria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-donuteria.webp",
+    "gameUrl": "",
+    "description": "Papas Donuteria",
+    "fallbackLogo": "assets/game-icons/papas-donuteria.webp"
+  },
+  "flappy-bird": {
+    "name": "Flappy Bird",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/flappy-bird.webp",
+    "gameUrl": "",
+    "description": "Flappy Bird",
+    "fallbackLogo": "assets/game-icons/flappy-bird.webp"
+  },
+  "duck-life-3": {
+    "name": "Duck Life 3",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/duck-life-3.webp",
+    "gameUrl": "",
+    "description": "Duck Life 3",
+    "fallbackLogo": "assets/game-icons/duck-life-3.webp"
+  },
+  "hero-rush-tower-defense": {
+    "name": "Hero Rush Tower Defense",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/hero-rush-tower-defense.webp",
+    "gameUrl": "",
+    "description": "Hero Rush Tower Defense",
+    "fallbackLogo": "assets/game-icons/hero-rush-tower-defense.jpg"
+  },
+  "cross-roads": {
+    "name": "Cross Roads",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cross-roads.webp",
+    "gameUrl": "",
+    "description": "Cross Roads",
+    "fallbackLogo": "assets/game-icons/cross-roads.webp"
+  },
+  "basket-hoop": {
+    "name": "Basket Hoop",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/basket-hoop.webp",
+    "gameUrl": "",
+    "description": "Basket Hoop",
+    "fallbackLogo": "assets/game-icons/basket-hoop.jpg"
+  },
+  "rally-point": {
+    "name": "Rally Point",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/rally-point.webp",
+    "gameUrl": "",
+    "description": "Rally Point",
+    "fallbackLogo": "assets/game-icons/rally-point.webp"
+  },
+  "highway-racer-pro": {
+    "name": "Highway Racer Pro",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/highway-racer-pro.webp",
+    "gameUrl": "",
+    "description": "Highway Racer Pro",
+    "fallbackLogo": "assets/game-icons/highway-racer-pro.jpg"
+  },
+  "stunt-rider": {
+    "name": "Stunt Rider",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/stunt-rider.webp",
+    "gameUrl": "",
+    "description": "Stunt Rider",
+    "fallbackLogo": "assets/game-icons/stunt-rider.webp"
+  },
+  "justfall.lol": {
+    "name": "Justfall.lol",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/justfall.lol.webp",
+    "gameUrl": "",
+    "description": "Justfall.lol",
+    "fallbackLogo": "assets/game-icons/justfall.lol.jpg"
+  },
+  "papas-pizzeria": {
+    "name": "Papas Pizzeria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-pizzeria.webp",
+    "gameUrl": "",
+    "description": "Papas Pizzeria",
+    "fallbackLogo": "assets/game-icons/papas-pizzeria.webp"
+  },
+  "getting-over-it": {
+    "name": "Getting Over It",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/getting-over-it.webp",
+    "gameUrl": "",
+    "description": "Getting Over It",
+    "fallbackLogo": "assets/game-icons/getting-over-it.jpg"
+  },
+  "jasmine-beauty-salon": {
+    "name": "Jasmine Beauty Salon",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/jasmine-beauty-salon.webp",
+    "gameUrl": "",
+    "description": "Jasmine Beauty Salon",
+    "fallbackLogo": "assets/game-icons/jasmine-beauty-salon.webp"
+  },
+  "little-alchemy-2": {
+    "name": "Little Alchemy 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/little-alchemy-2.webp",
+    "gameUrl": "",
+    "description": "Little Alchemy 2",
+    "fallbackLogo": "assets/game-icons/little-alchemy-2.jpg"
+  },
+  "rocket-hero-clicker": {
+    "name": "Rocket Hero Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/rocket-hero-clicker.webp",
+    "gameUrl": "",
+    "description": "Rocket Hero Clicker",
+    "fallbackLogo": "assets/game-icons/rocket-hero-clicker.webp"
+  },
+  "tennis-masters": {
+    "name": "Tennis Masters",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/tennis-masters.webp",
+    "gameUrl": "",
+    "description": "Tennis Masters",
+    "fallbackLogo": "assets/game-icons/tennis-masters.jpg"
+  },
+  "famidash": {
+    "name": "Famidash",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/famidash.webp",
+    "gameUrl": "",
+    "description": "Famidash",
+    "fallbackLogo": "assets/game-icons/famidash.webp"
+  },
+  "papas-burgeria": {
+    "name": "Papas Burgeria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-burgeria.webp",
+    "gameUrl": "",
+    "description": "Papas Burgeria",
+    "fallbackLogo": "assets/game-icons/papas-burgeria.webp"
+  },
+  "watermelon-game": {
+    "name": "Watermelon Game",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/watermelon-game.webp",
+    "gameUrl": "",
+    "description": "Watermelon Game",
+    "fallbackLogo": "assets/game-icons/watermelon-game.jpg"
+  },
+  "soccer-random-pro": {
+    "name": "Soccer Random Pro",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/soccer-random-pro.webp",
+    "gameUrl": "",
+    "description": "Soccer Random Pro",
+    "fallbackLogo": "assets/game-icons/soccer-random-pro.jpg"
+  },
+  "simple-loot-idle": {
+    "name": "Simple Loot Idle",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/simple-loot-idle.webp",
+    "gameUrl": "",
+    "description": "Simple Loot Idle",
+    "fallbackLogo": "assets/game-icons/simple-loot-idle.jpg"
+  },
+  "blocky-combat-swat": {
+    "name": "Blocky Combat Swat",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/blocky-combat-swat.webp",
+    "gameUrl": "",
+    "description": "Blocky Combat Swat",
+    "fallbackLogo": "assets/game-icons/blocky-combat-swat.jpg"
+  },
+  "simply-up": {
+    "name": "Simply Up",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/simply-up.webp",
+    "gameUrl": "",
+    "description": "Simply Up",
+    "fallbackLogo": "assets/game-icons/simply-up.jpg"
+  },
+  "discus": {
+    "name": "Discus",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/discus.webp",
+    "gameUrl": "",
+    "description": "Discus",
+    "fallbackLogo": "assets/game-icons/discus.webp"
+  },
+  "deepest-sword": {
+    "name": "Deepest Sword",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/deepest-sword.webp",
+    "gameUrl": "",
+    "description": "Deepest Sword",
+    "fallbackLogo": "assets/game-icons/deepest-sword.jpg"
+  },
+  "cat-simulator": {
+    "name": "Cat Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cat-simulator.webp",
+    "gameUrl": "",
+    "description": "Cat Simulator",
+    "fallbackLogo": "assets/game-icons/cat-simulator.jpg"
+  },
+  "street-fighter": {
+    "name": "Street Fighter",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/street-fighter.webp",
+    "gameUrl": "",
+    "description": "Street Fighter",
+    "fallbackLogo": "assets/game-icons/street-fighter.webp"
+  },
+  "president-simulator": {
+    "name": "President Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/president-simulator.webp",
+    "gameUrl": "",
+    "description": "President Simulator",
+    "fallbackLogo": "assets/game-icons/president-simulator.webp"
+  },
+  "super-smash-flash": {
+    "name": "Super Smash Flash",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/super-smash-flash.webp",
+    "gameUrl": "",
+    "description": "Super Smash Flash",
+    "fallbackLogo": "assets/game-icons/super-smash-flash.webp"
+  },
+  "axis-football-league": {
+    "name": "Axis Football League",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/axis-football-league.webp",
+    "gameUrl": "",
+    "description": "Axis Football League",
+    "fallbackLogo": "assets/game-icons/axis-football-league.webp"
+  },
+  "meat-boy": {
+    "name": "Meat Boy",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/meat-boy.webp",
+    "gameUrl": "",
+    "description": "Meat Boy",
+    "fallbackLogo": "assets/game-icons/meat-boy.webp"
+  },
+  "supercars-drift": {
+    "name": "Supercars Drift",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/supercars-drift.webp",
+    "gameUrl": "",
+    "description": "Supercars Drift",
+    "fallbackLogo": "assets/game-icons/supercars-drift.jpg"
+  },
+  "jacksmith": {
+    "name": "Jacksmith",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/jacksmith.webp",
+    "gameUrl": "",
+    "description": "Jacksmith",
+    "fallbackLogo": "assets/game-icons/jacksmith.webp"
+  },
+  "doodle-jump": {
+    "name": "Doodle Jump",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/doodle-jump.webp",
+    "gameUrl": "",
+    "description": "Doodle Jump",
+    "fallbackLogo": "assets/game-icons/doodle-jump.webp"
+  },
+  "ado-cars-drifter": {
+    "name": "Ado Cars Drifter",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/ado-cars-drifter.webp",
+    "gameUrl": "",
+    "description": "Ado Cars Drifter",
+    "fallbackLogo": "assets/game-icons/ado-cars-drifter.jpg"
+  },
+  "house-painter": {
+    "name": "House Painter",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/house-painter.webp",
+    "gameUrl": "",
+    "description": "House Painter",
+    "fallbackLogo": "assets/game-icons/house-painter.jpg"
+  },
+  "papas-sushiria": {
+    "name": "Papas Sushiria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-sushiria.webp",
+    "gameUrl": "",
+    "description": "Papas Sushiria",
+    "fallbackLogo": "assets/game-icons/papas-sushiria.webp"
+  },
+  "papas-cheeseria": {
+    "name": "Papas Cheeseria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-cheeseria.webp",
+    "gameUrl": "",
+    "description": "Papas Cheeseria",
+    "fallbackLogo": "assets/game-icons/papas-cheeseria.webp"
+  },
+  "poop-clicker": {
+    "name": "Poop Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/poop-clicker.webp",
+    "gameUrl": "",
+    "description": "Poop Clicker",
+    "fallbackLogo": "assets/game-icons/poop-clicker.jpg"
+  },
+  "car-stunt-king": {
+    "name": "Car Stunt King",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/car-stunt-king.webp",
+    "gameUrl": "",
+    "description": "Car Stunt King",
+    "fallbackLogo": "assets/game-icons/car-stunt-king.jpg"
+  },
+  "yeti-sensation": {
+    "name": "Yeti Sensation",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/yeti-sensation.webp",
+    "gameUrl": "",
+    "description": "Yeti Sensation",
+    "fallbackLogo": "assets/game-icons/yeti-sensation.webp"
+  },
+  "math-duck": {
+    "name": "Math Duck",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/math-duck.webp",
+    "gameUrl": "",
+    "description": "Math Duck",
+    "fallbackLogo": "assets/game-icons/math-duck.webp"
+  },
+  "swords-and-souls": {
+    "name": "Swords And Souls",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/swords-and-souls.webp",
+    "gameUrl": "",
+    "description": "Swords And Souls",
+    "fallbackLogo": "assets/game-icons/swords-and-souls.webp"
+  },
+  "papas-wingeria": {
+    "name": "Papas Wingeria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-wingeria.webp",
+    "gameUrl": "",
+    "description": "Papas Wingeria",
+    "fallbackLogo": "assets/game-icons/papas-wingeria.webp"
+  },
+  "fancy-pants-adventures-world-3": {
+    "name": "Fancy Pants Adventures World 3",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fancy-pants-adventures-world-3.webp",
+    "gameUrl": "",
+    "description": "Fancy Pants Adventures World 3",
+    "fallbackLogo": "assets/game-icons/fancy-pants-adventures-world-3.webp"
+  },
+  "archer-master-3d-castle-defender": {
+    "name": "Archer Master 3d Castle Defender",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/archer-master-3d-castle-defender.webp",
+    "gameUrl": "",
+    "description": "Archer Master 3d Castle Defender",
+    "fallbackLogo": "assets/game-icons/archer-master-3d-castle-defender.jpg"
+  },
+  "idle-dev-startup": {
+    "name": "Idle Dev Startup",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/idle-dev-startup.webp",
+    "gameUrl": "",
+    "description": "Idle Dev Startup",
+    "fallbackLogo": "assets/game-icons/idle-dev-startup.jpg"
+  },
+  "turn-turn": {
+    "name": "Turn Turn",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/turn-turn.webp",
+    "gameUrl": "",
+    "description": "Turn Turn",
+    "fallbackLogo": "assets/game-icons/turn-turn.webp"
+  },
+  "drift-city": {
+    "name": "Drift City",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/drift-city.webp",
+    "gameUrl": "",
+    "description": "Drift City",
+    "fallbackLogo": "assets/game-icons/drift-city.jpg"
+  },
+  "papas-pastaria": {
+    "name": "Papas Pastaria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-pastaria.webp",
+    "gameUrl": "",
+    "description": "Papas Pastaria",
+    "fallbackLogo": "assets/game-icons/papas-pastaria.webp"
+  },
+  "vex-8": {
+    "name": "Vex 8",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/vex-8.webp",
+    "gameUrl": "",
+    "description": "Vex 8",
+    "fallbackLogo": "assets/game-icons/vex-8.webp"
+  },
+  "drift-fury": {
+    "name": "Drift Fury",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/drift-fury.webp",
+    "gameUrl": "",
+    "description": "Drift Fury",
+    "fallbackLogo": "assets/game-icons/drift-fury.jpg"
+  },
+  "learn-to-fly-3": {
+    "name": "Learn To Fly 3",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/learn-to-fly-3.webp",
+    "gameUrl": "",
+    "description": "Learn To Fly 3",
+    "fallbackLogo": "assets/game-icons/learn-to-fly-3.webp"
+  },
+  "papas-pancakeria": {
+    "name": "Papas Pancakeria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-pancakeria.webp",
+    "gameUrl": "",
+    "description": "Papas Pancakeria",
+    "fallbackLogo": "assets/game-icons/papas-pancakeria.webp"
+  },
+  "papas-cupcakeria": {
+    "name": "Papas Cupcakeria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-cupcakeria.webp",
+    "gameUrl": "",
+    "description": "Papas Cupcakeria",
+    "fallbackLogo": "assets/game-icons/papas-cupcakeria.webp"
+  },
+  "paper-craft": {
+    "name": "Paper Craft",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/paper-craft.webp",
+    "gameUrl": "",
+    "description": "Paper Craft",
+    "fallbackLogo": "assets/game-icons/paper-craft.jpg"
+  },
+  "extreme-run-3d": {
+    "name": "Extreme Run 3d",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/extreme-run-3d.webp",
+    "gameUrl": "",
+    "description": "Extreme Run 3d",
+    "fallbackLogo": "assets/game-icons/extreme-run-3d.webp"
+  },
+  "secret-sniper-agent": {
+    "name": "Secret Sniper Agent",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/secret-sniper-agent.webp",
+    "gameUrl": "",
+    "description": "Secret Sniper Agent",
+    "fallbackLogo": "assets/game-icons/secret-sniper-agent.jpg"
+  },
+  "dark-forest-idle": {
+    "name": "Dark Forest Idle",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/dark-forest-idle.webp",
+    "gameUrl": "",
+    "description": "Dark Forest Idle",
+    "fallbackLogo": "assets/game-icons/dark-forest-idle.webp"
+  },
+  "mini-golf": {
+    "name": "Mini Golf",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/mini-golf.webp",
+    "gameUrl": "",
+    "description": "Mini Golf",
+    "fallbackLogo": "assets/game-icons/mini-golf.webp"
+  },
+  "the-impossible-quiz-2": {
+    "name": "The Impossible Quiz 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/the-impossible-quiz-2.webp",
+    "gameUrl": "",
+    "description": "The Impossible Quiz 2",
+    "fallbackLogo": "assets/game-icons/the-impossible-quiz-2.webp"
+  },
+  "raft-wars-2": {
+    "name": "Raft Wars 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/raft-wars-2.webp",
+    "gameUrl": "",
+    "description": "Raft Wars 2",
+    "fallbackLogo": "assets/game-icons/raft-wars-2.webp"
+  },
+  "riddle-school": {
+    "name": "Riddle School",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/riddle-school.webp",
+    "gameUrl": "",
+    "description": "Riddle School",
+    "fallbackLogo": "assets/game-icons/riddle-school.webp"
+  },
+  "dreamlike-room": {
+    "name": "Dreamlike Room",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/dreamlike-room.webp",
+    "gameUrl": "",
+    "description": "Dreamlike Room",
+    "fallbackLogo": "assets/game-icons/dreamlike-room.webp"
+  },
+  "wheres-my-water": {
+    "name": "Wheres My Water",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/wheres-my-water.webp",
+    "gameUrl": "",
+    "description": "Wheres My Water",
+    "fallbackLogo": "assets/game-icons/wheres-my-water.webp"
+  },
+  "tunnel-rush-2": {
+    "name": "Tunnel Rush 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/tunnel-rush-2.webp",
+    "gameUrl": "",
+    "description": "Tunnel Rush 2",
+    "fallbackLogo": "assets/game-icons/tunnel-rush-2.webp"
+  },
+  "basketball-king": {
+    "name": "Basketball King",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/basketball-king.webp",
+    "gameUrl": "",
+    "description": "Basketball King",
+    "fallbackLogo": "assets/game-icons/basketball-king.jpg"
+  },
+  "crazy-parking-fury": {
+    "name": "Crazy Parking Fury",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/crazy-parking-fury.webp",
+    "gameUrl": "",
+    "description": "Crazy Parking Fury",
+    "fallbackLogo": "assets/game-icons/crazy-parking-fury.jpg"
+  },
+  "fancy-pants-adventures-world-2": {
+    "name": "Fancy Pants Adventures World 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fancy-pants-adventures-world-2.webp",
+    "gameUrl": "",
+    "description": "Fancy Pants Adventures World 2",
+    "fallbackLogo": "assets/game-icons/fancy-pants-adventures-world-2.webp"
+  },
+  "interactive-buddy": {
+    "name": "Interactive Buddy",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/interactive-buddy.webp",
+    "gameUrl": "",
+    "description": "Interactive Buddy",
+    "fallbackLogo": "assets/game-icons/interactive-buddy.webp"
+  },
+  "cool-cookie-clicker": {
+    "name": "Cool Cookie Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cool-cookie-clicker.webp",
+    "gameUrl": "",
+    "description": "Cool Cookie Clicker",
+    "fallbackLogo": "assets/game-icons/cool-cookie-clicker.webp"
+  },
+  "nova-clicker": {
+    "name": "Nova Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/nova-clicker.webp",
+    "gameUrl": "",
+    "description": "Nova Clicker",
+    "fallbackLogo": "assets/game-icons/nova-clicker.jpg"
+  },
+  "crazy-christmas-3d": {
+    "name": "Crazy Christmas 3d",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/crazy-christmas-3d.webp",
+    "gameUrl": "",
+    "description": "Crazy Christmas 3d",
+    "fallbackLogo": "assets/game-icons/crazy-christmas-3d.webp"
+  },
+  "storm-the-house-2": {
+    "name": "Storm The House 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/storm-the-house-2.webp",
+    "gameUrl": "",
+    "description": "Storm The House 2",
+    "fallbackLogo": "assets/game-icons/storm-the-house-2.webp"
+  },
+  "uno-online": {
+    "name": "Uno Online",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/uno-online.webp",
+    "gameUrl": "",
+    "description": "Uno Online",
+    "fallbackLogo": "assets/game-icons/uno-online.jpg"
+  },
+  "burnout-drift-hunter": {
+    "name": "Burnout Drift Hunter",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/burnout-drift-hunter.webp",
+    "gameUrl": "",
+    "description": "Burnout Drift Hunter",
+    "fallbackLogo": "assets/game-icons/burnout-drift-hunter.jpg"
+  },
+  "the-worlds-hardest-game-2": {
+    "name": "The Worlds Hardest Game 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/the-worlds-hardest-game-2.webp",
+    "gameUrl": "",
+    "description": "The Worlds Hardest Game 2",
+    "fallbackLogo": "assets/game-icons/the-worlds-hardest-game-2.webp"
+  },
+  "papas-hot-doggeria": {
+    "name": "Papas Hot Doggeria",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papas-hot-doggeria.webp",
+    "gameUrl": "",
+    "description": "Papas Hot Doggeria",
+    "fallbackLogo": "assets/game-icons/papas-hot-doggeria.webp"
+  },
+  "duck-life-2": {
+    "name": "Duck Life 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/duck-life-2.webp",
+    "gameUrl": "",
+    "description": "Duck Life 2",
+    "fallbackLogo": "assets/game-icons/duck-life-2.webp"
+  },
+  "agent-smith": {
+    "name": "Agent Smith",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/agent-smith.webp",
+    "gameUrl": "",
+    "description": "Agent Smith",
+    "fallbackLogo": "assets/game-icons/agent-smith.jpg"
+  },
+  "orb-farm": {
+    "name": "Orb Farm",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/orb-farm.webp",
+    "gameUrl": "",
+    "description": "Orb Farm",
+    "fallbackLogo": "assets/game-icons/orb-farm.jpg"
+  },
+  "head-ball-online": {
+    "name": "Head Ball Online",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/head-ball-online.webp",
+    "gameUrl": "",
+    "description": "Head Ball Online",
+    "fallbackLogo": "assets/game-icons/head-ball-online.webp"
+  },
+  "fortnite-z": {
+    "name": "Fortnite Z",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fortnite-z.webp",
+    "gameUrl": "",
+    "description": "Fortnite Z",
+    "fallbackLogo": "assets/game-icons/fortnite-z.jpg"
+  },
+  "alien-sky-invasion": {
+    "name": "Alien Sky Invasion",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/alien-sky-invasion.webp",
+    "gameUrl": "",
+    "description": "Alien Sky Invasion",
+    "fallbackLogo": "assets/game-icons/alien-sky-invasion.jpg"
+  },
+  "city-stunts": {
+    "name": "City Stunts",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/city-stunts.webp",
+    "gameUrl": "",
+    "description": "City Stunts",
+    "fallbackLogo": "assets/game-icons/city-stunts.jpg"
+  },
+  "among-impostor": {
+    "name": "Among Impostor",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/among-impostor.webp",
+    "gameUrl": "",
+    "description": "Among Impostor",
+    "fallbackLogo": "assets/game-icons/among-impostor.jpg"
+  },
+  "8-ball-pool-billiard": {
+    "name": "8 Ball Pool Billiard",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/8-ball-pool-billiard.webp",
+    "gameUrl": "",
+    "description": "8 Ball Pool Billiard",
+    "fallbackLogo": "assets/game-icons/8-ball-pool-billiard.jpg"
+  },
+  "burnout-racers": {
+    "name": "Burnout Racers",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/burnout-racers.webp",
+    "gameUrl": "",
+    "description": "Burnout Racers",
+    "fallbackLogo": "assets/game-icons/burnout-racers.jpg"
+  },
+  "f1-drift-racer": {
+    "name": "F1 Drift Racer",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/f1-drift-racer.webp",
+    "gameUrl": "",
+    "description": "F1 Drift Racer",
+    "fallbackLogo": "assets/game-icons/f1-drift-racer.jpg"
+  },
+  "tractor-farming-simulator": {
+    "name": "Tractor Farming Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/tractor-farming-simulator.webp",
+    "gameUrl": "",
+    "description": "Tractor Farming Simulator",
+    "fallbackLogo": "assets/game-icons/tractor-farming-simulator.jpg"
+  },
+  "learn-to-fly": {
+    "name": "Learn To Fly",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/learn-to-fly.webp",
+    "gameUrl": "",
+    "description": "Learn To Fly",
+    "fallbackLogo": "assets/game-icons/learn-to-fly.webp"
+  },
+  "2048": {
+    "name": "2048",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/2048.webp",
+    "gameUrl": "",
+    "description": "2048",
+    "fallbackLogo": "assets/game-icons/2048.webp"
+  },
+  "ultimate-moto": {
+    "name": "Ultimate Moto",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/ultimate-moto.webp",
+    "gameUrl": "",
+    "description": "Ultimate Moto",
+    "fallbackLogo": "assets/game-icons/ultimate-moto.jpg"
+  },
+  "awesome-tanks-2": {
+    "name": "Awesome Tanks 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/awesome-tanks-2.webp",
+    "gameUrl": "",
+    "description": "Awesome Tanks 2",
+    "fallbackLogo": "assets/game-icons/awesome-tanks-2.webp"
+  },
+  "deer-hunter": {
+    "name": "Deer Hunter",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/deer-hunter.webp",
+    "gameUrl": "",
+    "description": "Deer Hunter",
+    "fallbackLogo": "assets/game-icons/deer-hunter.jpg"
+  },
+  "breaking-the-bank": {
+    "name": "Breaking The Bank",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/breaking-the-bank.webp",
+    "gameUrl": "",
+    "description": "Breaking The Bank",
+    "fallbackLogo": "assets/game-icons/breaking-the-bank.webp"
+  },
+  "papa-louie-2-when-burgers-attack": {
+    "name": "Papa Louie 2 When Burgers Attack",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/papa-louie-2-when-burgers-attack.webp",
+    "gameUrl": "",
+    "description": "Papa Louie 2 When Burgers Attack",
+    "fallbackLogo": "assets/game-icons/papa-louie-2-when-burgers-attack.webp"
+  },
+  "learn-to-fly-idle": {
+    "name": "Learn To Fly Idle",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/learn-to-fly-idle.webp",
+    "gameUrl": "",
+    "description": "Learn To Fly Idle",
+    "fallbackLogo": "assets/game-icons/learn-to-fly-idle.webp"
+  },
+  "car-parkour": {
+    "name": "Car Parkour",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/car-parkour.webp",
+    "gameUrl": "",
+    "description": "Car Parkour",
+    "fallbackLogo": "assets/game-icons/car-parkour.webp"
+  },
+  "super-stickman-golf": {
+    "name": "Super Stickman Golf",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/super-stickman-golf.webp",
+    "gameUrl": "",
+    "description": "Super Stickman Golf",
+    "fallbackLogo": "assets/game-icons/super-stickman-golf.jpg"
+  },
+  "snaker-io": {
+    "name": "Snaker Io",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/snaker-io.webp",
+    "gameUrl": "",
+    "description": "Snaker Io",
+    "fallbackLogo": "assets/game-icons/snaker-io.webp"
+  },
+  "nova-craft": {
+    "name": "Nova Craft",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/nova-craft.webp",
+    "gameUrl": "",
+    "description": "Nova Craft",
+    "fallbackLogo": "assets/game-icons/nova-craft.jpg"
+  },
+  "tetris": {
+    "name": "Tetris",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/tetris.webp",
+    "gameUrl": "",
+    "description": "Tetris",
+    "fallbackLogo": "assets/game-icons/tetris.webp"
+  },
+  "duck-life-5": {
+    "name": "Duck Life 5",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/duck-life-5.webp",
+    "gameUrl": "",
+    "description": "Duck Life 5",
+    "fallbackLogo": "assets/game-icons/duck-life-5.jpg"
+  },
+  "helix-jump": {
+    "name": "Helix Jump",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/helix-jump.webp",
+    "gameUrl": "",
+    "description": "Helix Jump",
+    "fallbackLogo": "assets/game-icons/helix-jump.jpg"
+  },
+  "mini-shooters": {
+    "name": "Mini Shooters",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/mini-shooters.webp",
+    "gameUrl": "",
+    "description": "Mini Shooters",
+    "fallbackLogo": "assets/game-icons/mini-shooters.jpg"
+  },
+  "funny-shooter-bro": {
+    "name": "Funny Shooter Bro",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/funny-shooter-bro.webp",
+    "gameUrl": "",
+    "description": "Funny Shooter Bro",
+    "fallbackLogo": "assets/game-icons/funny-shooter-bro.jpg"
+  },
+  "awesome-tanks": {
+    "name": "Awesome Tanks",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/awesome-tanks.webp",
+    "gameUrl": "",
+    "description": "Awesome Tanks",
+    "fallbackLogo": "assets/game-icons/awesome-tanks.webp"
+  },
+  "basketball-slam-dunk": {
+    "name": "Basketball Slam Dunk",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/basketball-slam-dunk.webp",
+    "gameUrl": "",
+    "description": "Basketball Slam Dunk",
+    "fallbackLogo": "assets/game-icons/basketball-slam-dunk.jpg"
+  },
+  "stickman-peacekeeper": {
+    "name": "Stickman Peacekeeper",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/stickman-peacekeeper.webp",
+    "gameUrl": "",
+    "description": "Stickman Peacekeeper",
+    "fallbackLogo": "assets/game-icons/stickman-peacekeeper.webp"
+  },
+  "cube-worlds": {
+    "name": "Cube Worlds",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cube-worlds.webp",
+    "gameUrl": "",
+    "description": "Cube Worlds",
+    "fallbackLogo": "assets/game-icons/cube-worlds.jpg"
+  },
+  "draw-the-bridge": {
+    "name": "Draw The Bridge",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/draw-the-bridge.webp",
+    "gameUrl": "",
+    "description": "Draw The Bridge",
+    "fallbackLogo": "assets/game-icons/draw-the-bridge.webp"
+  },
+  "egg-car-racing": {
+    "name": "Egg Car Racing",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/egg-car-racing.webp",
+    "gameUrl": "",
+    "description": "Egg Car Racing",
+    "fallbackLogo": "assets/game-icons/egg-car-racing.jpg"
+  },
+  "cargo-jeep-racing": {
+    "name": "Cargo Jeep Racing",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cargo-jeep-racing.webp",
+    "gameUrl": "",
+    "description": "Cargo Jeep Racing",
+    "fallbackLogo": "assets/game-icons/cargo-jeep-racing.webp"
+  },
+  "marble-skies": {
+    "name": "Marble Skies",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/marble-skies.webp",
+    "gameUrl": "",
+    "description": "Marble Skies",
+    "fallbackLogo": "assets/game-icons/marble-skies.webp"
+  },
+  "rooftop-duel": {
+    "name": "Rooftop Duel",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/rooftop-duel.webp",
+    "gameUrl": "",
+    "description": "Rooftop Duel",
+    "fallbackLogo": "assets/game-icons/rooftop-duel.jpg"
+  },
+  "crazy-moto-racing": {
+    "name": "Crazy Moto Racing",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/crazy-moto-racing.webp",
+    "gameUrl": "",
+    "description": "Crazy Moto Racing",
+    "fallbackLogo": "assets/game-icons/crazy-moto-racing.jpg"
+  },
+  "ducklingsio": {
+    "name": "Ducklingsio",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/ducklingsio.webp",
+    "gameUrl": "",
+    "description": "Ducklingsio",
+    "fallbackLogo": "assets/game-icons/ducklingsio.jpg"
+  },
+  "raft-wars": {
+    "name": "Raft Wars",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/raft-wars.webp",
+    "gameUrl": "",
+    "description": "Raft Wars",
+    "fallbackLogo": "assets/game-icons/raft-wars.webp"
+  },
+  "crazy-stickman-physics": {
+    "name": "Crazy Stickman Physics",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/crazy-stickman-physics.webp",
+    "gameUrl": "",
+    "description": "Crazy Stickman Physics",
+    "fallbackLogo": "assets/game-icons/crazy-stickman-physics.jpg"
+  },
+  "potty-racers-2": {
+    "name": "Potty Racers 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/potty-racers-2.webp",
+    "gameUrl": "",
+    "description": "Potty Racers 2",
+    "fallbackLogo": "assets/game-icons/potty-racers-2.jpg"
+  },
+  "crown-defense": {
+    "name": "Crown Defense",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/crown-defense.webp",
+    "gameUrl": "",
+    "description": "Crown Defense",
+    "fallbackLogo": "assets/game-icons/crown-defense.webp"
+  },
+  "super-mini-racing": {
+    "name": "Super Mini Racing",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/super-mini-racing.webp",
+    "gameUrl": "",
+    "description": "Super Mini Racing",
+    "fallbackLogo": "assets/game-icons/super-mini-racing.jpg"
+  },
+  "cat-miner-2": {
+    "name": "Cat Miner 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cat-miner-2.webp",
+    "gameUrl": "",
+    "description": "Cat Miner 2",
+    "fallbackLogo": "assets/game-icons/cat-miner-2.webp"
+  },
+  "conquer-kingdoms": {
+    "name": "Conquer Kingdoms",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/conquer-kingdoms.webp",
+    "gameUrl": "",
+    "description": "Conquer Kingdoms",
+    "fallbackLogo": "assets/game-icons/conquer-kingdoms.webp"
+  },
+  "run-1": {
+    "name": "Run 1",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/run-1.webp",
+    "gameUrl": "",
+    "description": "Run 1",
+    "fallbackLogo": "assets/game-icons/run-1.webp"
+  },
+  "fun-party-makeup": {
+    "name": "Fun Party Makeup",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fun-party-makeup.webp",
+    "gameUrl": "",
+    "description": "Fun Party Makeup",
+    "fallbackLogo": "assets/game-icons/fun-party-makeup.jpg"
+  },
+  "wheres-my-pizza": {
+    "name": "Wheres My Pizza",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/wheres-my-pizza.webp",
+    "gameUrl": "",
+    "description": "Wheres My Pizza",
+    "fallbackLogo": "assets/game-icons/wheres-my-pizza.webp"
+  },
+  "classicube": {
+    "name": "Classicube",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/classicube.webp",
+    "gameUrl": "",
+    "description": "Classicube",
+    "fallbackLogo": "assets/game-icons/classicube.jpg"
+  },
+  "neon-moto-driver": {
+    "name": "Neon Moto Driver",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/neon-moto-driver.webp",
+    "gameUrl": "",
+    "description": "Neon Moto Driver",
+    "fallbackLogo": "assets/game-icons/neon-moto-driver.webp"
+  },
+  "swords-and-sandals-2": {
+    "name": "Swords And Sandals 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/swords-and-sandals-2.webp",
+    "gameUrl": "",
+    "description": "Swords And Sandals 2",
+    "fallbackLogo": "assets/game-icons/swords-and-sandals-2.webp"
+  },
+  "alien-hominid": {
+    "name": "Alien Hominid",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/alien-hominid.webp",
+    "gameUrl": "",
+    "description": "Alien Hominid",
+    "fallbackLogo": "assets/game-icons/alien-hominid.webp"
+  },
+  "xtreme-paintball-wars": {
+    "name": "Xtreme Paintball Wars",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/xtreme-paintball-wars.webp",
+    "gameUrl": "",
+    "description": "Xtreme Paintball Wars",
+    "fallbackLogo": "assets/game-icons/xtreme-paintball-wars.jpg"
+  },
+  "fall-boys": {
+    "name": "Fall Boys",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fall-boys.webp",
+    "gameUrl": "",
+    "description": "Fall Boys",
+    "fallbackLogo": "assets/game-icons/fall-boys.jpg"
+  },
+  "endless-lake": {
+    "name": "Endless Lake",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/endless-lake.webp",
+    "gameUrl": "",
+    "description": "Endless Lake",
+    "fallbackLogo": "assets/game-icons/endless-lake.webp"
+  },
+  "storm-the-house-3": {
+    "name": "Storm The House 3",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/storm-the-house-3.webp",
+    "gameUrl": "",
+    "description": "Storm The House 3",
+    "fallbackLogo": "assets/game-icons/storm-the-house-3.webp"
+  },
+  "state-io-wars": {
+    "name": "State Io Wars",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/state-io-wars.webp",
+    "gameUrl": "",
+    "description": "State Io Wars",
+    "fallbackLogo": "assets/game-icons/state-io-wars.jpg"
+  },
+  "vapor-trails": {
+    "name": "Vapor Trails",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/vapor-trails.webp",
+    "gameUrl": "",
+    "description": "Vapor Trails",
+    "fallbackLogo": "assets/game-icons/vapor-trails.jpg"
+  },
+  "hexa-puzzle": {
+    "name": "Hexa Puzzle",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/hexa-puzzle.webp",
+    "gameUrl": "",
+    "description": "Hexa Puzzle",
+    "fallbackLogo": "assets/game-icons/hexa-puzzle.webp"
+  },
+  "kingdom-attack": {
+    "name": "Kingdom Attack",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/kingdom-attack.webp",
+    "gameUrl": "",
+    "description": "Kingdom Attack",
+    "fallbackLogo": "assets/game-icons/kingdom-attack.webp"
+  },
+  "mini-cars-racing": {
+    "name": "Mini Cars Racing",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/mini-cars-racing.webp",
+    "gameUrl": "",
+    "description": "Mini Cars Racing",
+    "fallbackLogo": "assets/game-icons/mini-cars-racing.jpg"
+  },
+  "subway-idle-3d": {
+    "name": "Subway Idle 3d",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/subway-idle-3d.webp",
+    "gameUrl": "",
+    "description": "Subway Idle 3d",
+    "fallbackLogo": "assets/game-icons/subway-idle-3d.jpg"
+  },
+  "2-player-crazy-racer": {
+    "name": "2 Player Crazy Racer",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/2-player-crazy-racer.webp",
+    "gameUrl": "",
+    "description": "2 Player Crazy Racer",
+    "fallbackLogo": "assets/game-icons/2-player-crazy-racer.jpg"
+  },
+  "supermarket-simulator": {
+    "name": "Supermarket Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/supermarket-simulator.webp",
+    "gameUrl": "",
+    "description": "Supermarket Simulator",
+    "fallbackLogo": "assets/game-icons/supermarket-simulator.jpg"
+  },
+  "doggo-clicker": {
+    "name": "Doggo Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/doggo-clicker.webp",
+    "gameUrl": "",
+    "description": "Doggo Clicker",
+    "fallbackLogo": "assets/game-icons/doggo-clicker.jpg"
+  },
+  "squad-shooter": {
+    "name": "Squad Shooter",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/squad-shooter.webp",
+    "gameUrl": "",
+    "description": "Squad Shooter",
+    "fallbackLogo": "assets/game-icons/squad-shooter.webp"
+  },
+  "storm-the-house": {
+    "name": "Storm The House",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/storm-the-house.webp",
+    "gameUrl": "",
+    "description": "Storm The House",
+    "fallbackLogo": "assets/game-icons/storm-the-house.webp"
+  },
+  "elastic-duck": {
+    "name": "Elastic Duck",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/elastic-duck.webp",
+    "gameUrl": "",
+    "description": "Elastic Duck",
+    "fallbackLogo": "assets/game-icons/elastic-duck.webp"
+  },
+  "diggy": {
+    "name": "Diggy",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/diggy.webp",
+    "gameUrl": "",
+    "description": "Diggy",
+    "fallbackLogo": "assets/game-icons/diggy.webp"
+  },
+  "choppy-orc": {
+    "name": "Choppy Orc",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/choppy-orc.webp",
+    "gameUrl": "",
+    "description": "Choppy Orc",
+    "fallbackLogo": "assets/game-icons/choppy-orc.jpg"
+  },
+  "digital-museum": {
+    "name": "Digital Museum",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/digital-museum.webp",
+    "gameUrl": "",
+    "description": "Digital Museum",
+    "fallbackLogo": "assets/game-icons/digital-museum.webp"
+  },
+  "stick-guys-defense": {
+    "name": "Stick Guys Defense",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/stick-guys-defense.webp",
+    "gameUrl": "",
+    "description": "Stick Guys Defense",
+    "fallbackLogo": "assets/game-icons/stick-guys-defense.jpg"
+  },
+  "super-mario-defense": {
+    "name": "Super Mario Defense",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/super-mario-defense.webp",
+    "gameUrl": "",
+    "description": "Super Mario Defense",
+    "fallbackLogo": "assets/game-icons/super-mario-defense.jpg"
+  },
+  "kawaii-shooter": {
+    "name": "Kawaii Shooter",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/kawaii-shooter.webp",
+    "gameUrl": "",
+    "description": "Kawaii Shooter",
+    "fallbackLogo": "assets/game-icons/kawaii-shooter.jpg"
+  },
+  "stunt-simulator-2": {
+    "name": "Stunt Simulator 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/stunt-simulator-2.webp",
+    "gameUrl": "",
+    "description": "Stunt Simulator 2",
+    "fallbackLogo": "assets/game-icons/stunt-simulator-2.jpg"
+  },
+  "pizza-party": {
+    "name": "Pizza Party",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/pizza-party.webp",
+    "gameUrl": "",
+    "description": "Pizza Party",
+    "fallbackLogo": "assets/game-icons/pizza-party.webp"
+  },
+  "awesome-pirates": {
+    "name": "Awesome Pirates",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/awesome-pirates.webp",
+    "gameUrl": "",
+    "description": "Awesome Pirates",
+    "fallbackLogo": "assets/game-icons/awesome-pirates.webp"
+  },
+  "survival-island": {
+    "name": "Survival Island",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/survival-island.webp",
+    "gameUrl": "",
+    "description": "Survival Island",
+    "fallbackLogo": "assets/game-icons/survival-island.jpg"
+  },
+  "bloonstd-3": {
+    "name": "Bloonstd 3",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/bloonstd-3.webp",
+    "gameUrl": "",
+    "description": "Bloonstd 3",
+    "fallbackLogo": "assets/game-icons/bloonstd-3.webp"
+  },
+  "bloonstd": {
+    "name": "Bloonstd",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/bloonstd.webp",
+    "gameUrl": "",
+    "description": "Bloonstd",
+    "fallbackLogo": "assets/game-icons/bloonstd.webp"
+  },
+  "cobraz-io-classic": {
+    "name": "Cobraz Io Classic",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cobraz-io-classic.webp",
+    "gameUrl": "",
+    "description": "Cobraz Io Classic",
+    "fallbackLogo": "assets/game-icons/cobraz-io-classic.jpg"
+  },
+  "farming-island": {
+    "name": "Farming Island",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/farming-island.webp",
+    "gameUrl": "",
+    "description": "Farming Island",
+    "fallbackLogo": "assets/game-icons/farming-island.jpg"
+  },
+  "bloonstd-2": {
+    "name": "Bloonstd 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/bloonstd-2.webp",
+    "gameUrl": "",
+    "description": "Bloonstd 2",
+    "fallbackLogo": "assets/game-icons/bloonstd-2.webp"
+  },
+  "train-racing": {
+    "name": "Train Racing",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/train-racing.webp",
+    "gameUrl": "",
+    "description": "Train Racing",
+    "fallbackLogo": "assets/game-icons/train-racing.jpg"
+  },
+  "kawai-run-2": {
+    "name": "Kawai Run 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/kawai-run-2.webp",
+    "gameUrl": "",
+    "description": "Kawai Run 2",
+    "fallbackLogo": "assets/game-icons/kawai-run-2.jpg"
+  },
+  "find-it": {
+    "name": "Find It",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/find-it.webp",
+    "gameUrl": "",
+    "description": "Find It",
+    "fallbackLogo": "assets/game-icons/find-it.jpg"
+  },
+  "the-farmer": {
+    "name": "The Farmer",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/the-farmer.webp",
+    "gameUrl": "",
+    "description": "The Farmer",
+    "fallbackLogo": "assets/game-icons/the-farmer.jpg"
+  },
+  "idle-restaurant": {
+    "name": "Idle Restaurant",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/idle-restaurant.webp",
+    "gameUrl": "",
+    "description": "Idle Restaurant",
+    "fallbackLogo": "assets/game-icons/idle-restaurant.jpg"
+  },
+  "age-of-battle": {
+    "name": "Age Of Battle",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/age-of-battle.webp",
+    "gameUrl": "",
+    "description": "Age Of Battle",
+    "fallbackLogo": "assets/game-icons/age-of-battle.webp"
+  },
+  "mafia-getaway-cars": {
+    "name": "Mafia Getaway Cars",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/mafia-getaway-cars.webp",
+    "gameUrl": "",
+    "description": "Mafia Getaway Cars",
+    "fallbackLogo": "assets/game-icons/mafia-getaway-cars.jpg"
+  },
+  "slime-rush-td": {
+    "name": "Slime Rush Td",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/slime-rush-td.webp",
+    "gameUrl": "",
+    "description": "Slime Rush Td",
+    "fallbackLogo": "assets/game-icons/slime-rush-td.jpg"
+  },
+  "rogue-soul-2": {
+    "name": "Rogue Soul 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/rogue-soul-2.webp",
+    "gameUrl": "",
+    "description": "Rogue Soul 2",
+    "fallbackLogo": "assets/game-icons/rogue-soul-2.webp"
+  },
+  "war-simulator": {
+    "name": "War Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/war-simulator.webp",
+    "gameUrl": "",
+    "description": "War Simulator",
+    "fallbackLogo": "assets/game-icons/war-simulator.jpg"
+  },
+  "car-wash": {
+    "name": "Car Wash",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/car-wash.webp",
+    "gameUrl": "",
+    "description": "Car Wash",
+    "fallbackLogo": "assets/game-icons/car-wash.jpg"
+  },
+  "grand-prix-multiplication": {
+    "name": "Grand Prix Multiplication",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/grand-prix-multiplication.webp",
+    "gameUrl": "",
+    "description": "Grand Prix Multiplication",
+    "fallbackLogo": "assets/game-icons/grand-prix-multiplication.webp"
+  },
+  "tiny-castle": {
+    "name": "Tiny Castle",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/tiny-castle.webp",
+    "gameUrl": "",
+    "description": "Tiny Castle",
+    "fallbackLogo": "assets/game-icons/tiny-castle.webp"
+  },
+  "speedrun-parkour": {
+    "name": "Speedrun Parkour",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/speedrun-parkour.webp",
+    "gameUrl": "",
+    "description": "Speedrun Parkour",
+    "fallbackLogo": "assets/game-icons/speedrun-parkour.jpg"
+  },
+  "powerslide-kart-simulator": {
+    "name": "Powerslide Kart Simulator",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/powerslide-kart-simulator.webp",
+    "gameUrl": "",
+    "description": "Powerslide Kart Simulator",
+    "fallbackLogo": "assets/game-icons/powerslide-kart-simulator.jpg"
+  },
+  "neighborhood-defense": {
+    "name": "Neighborhood Defense",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/neighborhood-defense.webp",
+    "gameUrl": "",
+    "description": "Neighborhood Defense",
+    "fallbackLogo": "assets/game-icons/neighborhood-defense.jpg"
+  },
+  "tank-arena": {
+    "name": "Tank Arena",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/tank-arena.webp",
+    "gameUrl": "",
+    "description": "Tank Arena",
+    "fallbackLogo": "assets/game-icons/tank-arena.jpg"
+  },
+  "kingdom-battle-3d": {
+    "name": "Kingdom Battle 3d",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/kingdom-battle-3d.webp",
+    "gameUrl": "",
+    "description": "Kingdom Battle 3d",
+    "fallbackLogo": "assets/game-icons/kingdom-battle-3d.webp"
+  },
+  "flappy-circle": {
+    "name": "Flappy Circle",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/flappy-circle.webp",
+    "gameUrl": "",
+    "description": "Flappy Circle",
+    "fallbackLogo": "assets/game-icons/flappy-circle.webp"
+  },
+  "monster-survivors": {
+    "name": "Monster Survivors",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/monster-survivors.webp",
+    "gameUrl": "",
+    "description": "Monster Survivors",
+    "fallbackLogo": "assets/game-icons/monster-survivors.jpg"
+  },
+  "xmas-cookie-clicker": {
+    "name": "Xmas Cookie Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/xmas-cookie-clicker.webp",
+    "gameUrl": "",
+    "description": "Xmas Cookie Clicker",
+    "fallbackLogo": "assets/game-icons/xmas-cookie-clicker.jpg"
+  },
+  "war-of-ships-io": {
+    "name": "War Of Ships Io",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/war-of-ships-io.webp",
+    "gameUrl": "",
+    "description": "War Of Ships Io",
+    "fallbackLogo": "assets/game-icons/war-of-ships-io.jpg"
+  },
+  "run-3-space": {
+    "name": "Run 3 Space",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/run-3-space.webp",
+    "gameUrl": "",
+    "description": "Run 3 Space",
+    "fallbackLogo": "assets/game-icons/run-3-space.jpg"
+  },
+  "nuts-and-bolts-puzzle": {
+    "name": "Nuts And Bolts Puzzle",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/nuts-and-bolts-puzzle.webp",
+    "gameUrl": "",
+    "description": "Nuts And Bolts Puzzle",
+    "fallbackLogo": "assets/game-icons/nuts-and-bolts-puzzle.jpg"
+  },
+  "cool-game": {
+    "name": "Cool Game",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cool-game.webp",
+    "gameUrl": "",
+    "description": "Cool Game",
+    "fallbackLogo": "assets/game-icons/cool-game.png"
+  },
+  "tile-match": {
+    "name": "Tile Match",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/tile-match.webp",
+    "gameUrl": "",
+    "description": "Tile Match",
+    "fallbackLogo": "assets/game-icons/tile-match.jpg"
+  },
+  "american-touchdown": {
+    "name": "American Touchdown",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/american-touchdown.webp",
+    "gameUrl": "",
+    "description": "American Touchdown",
+    "fallbackLogo": "assets/game-icons/american-touchdown.jpg"
+  },
+  "snake-wars": {
+    "name": "Snake Wars",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/snake-wars.webp",
+    "gameUrl": "",
+    "description": "Snake Wars",
+    "fallbackLogo": "assets/game-icons/snake-wars.jpg"
+  },
+  "mini-zombie-shooters": {
+    "name": "Mini Zombie Shooters",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/mini-zombie-shooters.webp",
+    "gameUrl": "",
+    "description": "Mini Zombie Shooters",
+    "fallbackLogo": "assets/game-icons/mini-zombie-shooters.webp"
+  },
+  "kingdom-rush-frontiers": {
+    "name": "Kingdom Rush Frontiers",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/kingdom-rush-frontiers.webp",
+    "gameUrl": "",
+    "description": "Kingdom Rush Frontiers",
+    "fallbackLogo": "assets/game-icons/kingdom-rush-frontiers.webp"
+  },
+  "head-basketball": {
+    "name": "Head Basketball",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/head-basketball.webp",
+    "gameUrl": "",
+    "description": "Head Basketball",
+    "fallbackLogo": "assets/game-icons/head-basketball.jpg"
+  },
+  "hover-racer-pro": {
+    "name": "Hover Racer Pro",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/hover-racer-pro.webp",
+    "gameUrl": "",
+    "description": "Hover Racer Pro",
+    "fallbackLogo": "assets/game-icons/hover-racer-pro.jpg"
+  },
+  "survival-craft": {
+    "name": "Survival Craft",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/survival-craft.webp",
+    "gameUrl": "",
+    "description": "Survival Craft",
+    "fallbackLogo": "assets/game-icons/survival-craft.jpg"
+  },
+  "paw-clicker": {
+    "name": "Paw Clicker",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/paw-clicker.webp",
+    "gameUrl": "",
+    "description": "Paw Clicker",
+    "fallbackLogo": "assets/game-icons/paw-clicker.webp"
+  },
+  "freeway-fury-2": {
+    "name": "Freeway Fury 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/freeway-fury-2.webp",
+    "gameUrl": "",
+    "description": "Freeway Fury 2",
+    "fallbackLogo": "assets/game-icons/freeway-fury-2.webp"
+  },
+  "bubble-shooter-easy": {
+    "name": "Bubble Shooter Easy",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/bubble-shooter-easy.webp",
+    "gameUrl": "",
+    "description": "Bubble Shooter Easy",
+    "fallbackLogo": "assets/game-icons/bubble-shooter-easy.webp"
+  },
+  "cactus-mccoy-1": {
+    "name": "Cactus Mccoy 1",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cactus-mccoy-1.webp",
+    "gameUrl": "",
+    "description": "Cactus Mccoy 1",
+    "fallbackLogo": "assets/game-icons/cactus-mccoy-1.webp"
+  },
+  "cake-match-puzzle": {
+    "name": "Cake Match Puzzle",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cake-match-puzzle.webp",
+    "gameUrl": "",
+    "description": "Cake Match Puzzle",
+    "fallbackLogo": "assets/game-icons/cake-match-puzzle.webp"
+  },
+  "paper-planets": {
+    "name": "Paper Planets",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/paper-planets.webp",
+    "gameUrl": "",
+    "description": "Paper Planets",
+    "fallbackLogo": "assets/game-icons/paper-planets.webp"
+  },
+  "xx142-b2.exe": {
+    "name": "Xx142 B2.exe",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/xx142-b2.exe.webp",
+    "gameUrl": "",
+    "description": "Xx142 B2.exe",
+    "fallbackLogo": "assets/game-icons/xx142-b2.exe.webp"
+  },
+  "storm-city-mafia": {
+    "name": "Storm City Mafia",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/storm-city-mafia.webp",
+    "gameUrl": "",
+    "description": "Storm City Mafia",
+    "fallbackLogo": "assets/game-icons/storm-city-mafia.jpg"
+  },
+  "doom-2d": {
+    "name": "Doom 2d",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/doom-2d.webp",
+    "gameUrl": "",
+    "description": "Doom 2d",
+    "fallbackLogo": "assets/game-icons/doom-2d.webp"
+  },
+  "crazy-hill-climb": {
+    "name": "Crazy Hill Climb",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/crazy-hill-climb.webp",
+    "gameUrl": "",
+    "description": "Crazy Hill Climb",
+    "fallbackLogo": "assets/game-icons/crazy-hill-climb.jpg"
+  },
+  "dont-fall-io": {
+    "name": "Dont Fall Io",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/dont-fall-io.webp",
+    "gameUrl": "",
+    "description": "Dont Fall Io",
+    "fallbackLogo": "assets/game-icons/dont-fall-io.jpg"
+  },
+  "the-farmer-craft": {
+    "name": "The Farmer Craft",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/the-farmer-craft.webp",
+    "gameUrl": "",
+    "description": "The Farmer Craft",
+    "fallbackLogo": "assets/game-icons/the-farmer-craft.jpg"
+  },
+  "hill-climb-cars": {
+    "name": "Hill Climb Cars",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/hill-climb-cars.webp",
+    "gameUrl": "",
+    "description": "Hill Climb Cars",
+    "fallbackLogo": "assets/game-icons/hill-climb-cars.jpg"
+  },
+  "galactic-driver": {
+    "name": "Galactic Driver",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/galactic-driver.webp",
+    "gameUrl": "",
+    "description": "Galactic Driver",
+    "fallbackLogo": "assets/game-icons/galactic-driver.jpg"
+  },
+  "veggie-survivors": {
+    "name": "Veggie Survivors",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/veggie-survivors.webp",
+    "gameUrl": "",
+    "description": "Veggie Survivors",
+    "fallbackLogo": "assets/game-icons/veggie-survivors.webp"
+  },
+  "soul-essence-adventure": {
+    "name": "Soul Essence Adventure",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/soul-essence-adventure.webp",
+    "gameUrl": "",
+    "description": "Soul Essence Adventure",
+    "fallbackLogo": "assets/game-icons/soul-essence-adventure.jpg"
+  },
+  "mahjong": {
+    "name": "Mahjong",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/mahjong.webp",
+    "gameUrl": "",
+    "description": "Mahjong",
+    "fallbackLogo": "assets/game-icons/mahjong.jpg"
+  },
+  "gold-miner": {
+    "name": "Gold Miner",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/gold-miner.webp",
+    "gameUrl": "",
+    "description": "Gold Miner",
+    "fallbackLogo": "assets/game-icons/gold-miner.webp"
+  },
+  "voxel-world": {
+    "name": "Voxel World",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/voxel-world.webp",
+    "gameUrl": "",
+    "description": "Voxel World",
+    "fallbackLogo": "assets/game-icons/voxel-world.jpg"
+  },
+  "idle-duck-breakout": {
+    "name": "Idle Duck Breakout",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/idle-duck-breakout.webp",
+    "gameUrl": "",
+    "description": "Idle Duck Breakout",
+    "fallbackLogo": "assets/game-icons/idle-duck-breakout.webp"
+  },
+  "money-movers": {
+    "name": "Money Movers",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/money-movers.webp",
+    "gameUrl": "",
+    "description": "Money Movers",
+    "fallbackLogo": "assets/game-icons/money-movers.webp"
+  },
+  "heist-escape": {
+    "name": "Heist Escape",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/heist-escape.webp",
+    "gameUrl": "",
+    "description": "Heist Escape",
+    "fallbackLogo": "assets/game-icons/heist-escape.jpg"
+  },
+  "arena-of-heroes": {
+    "name": "Arena Of Heroes",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/arena-of-heroes.webp",
+    "gameUrl": "",
+    "description": "Arena Of Heroes",
+    "fallbackLogo": "assets/game-icons/arena-of-heroes.webp"
+  },
+  "solitaire-adventure": {
+    "name": "Solitaire Adventure",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/solitaire-adventure.webp",
+    "gameUrl": "",
+    "description": "Solitaire Adventure",
+    "fallbackLogo": "assets/game-icons/solitaire-adventure.jpg"
+  },
+  "siegius": {
+    "name": "Siegius",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/siegius.webp",
+    "gameUrl": "",
+    "description": "Siegius",
+    "fallbackLogo": "assets/game-icons/siegius.jpg"
+  },
+  "marco": {
+    "name": "Marco",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/marco.webp",
+    "gameUrl": "",
+    "description": "Marco",
+    "fallbackLogo": "assets/game-icons/marco.jpg"
+  },
+  "fantasy-tower-defense": {
+    "name": "Fantasy Tower Defense",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/fantasy-tower-defense.webp",
+    "gameUrl": "",
+    "description": "Fantasy Tower Defense",
+    "fallbackLogo": "assets/game-icons/fantasy-tower-defense.jpg"
+  },
+  "diver-down": {
+    "name": "Diver Down",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/diver-down.webp",
+    "gameUrl": "",
+    "description": "Diver Down",
+    "fallbackLogo": "assets/game-icons/diver-down.webp"
+  },
+  "bookworm": {
+    "name": "Bookworm",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/bookworm.webp",
+    "gameUrl": "",
+    "description": "Bookworm",
+    "fallbackLogo": "assets/game-icons/bookworm.webp"
+  },
+  "jewelanche": {
+    "name": "Jewelanche",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/jewelanche.webp",
+    "gameUrl": "",
+    "description": "Jewelanche",
+    "fallbackLogo": "assets/game-icons/jewelanche.jpg"
+  },
+  "hook-wars": {
+    "name": "Hook Wars",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/hook-wars.webp",
+    "gameUrl": "",
+    "description": "Hook Wars",
+    "fallbackLogo": "assets/game-icons/hook-wars.jpg"
+  },
+  "snake": {
+    "name": "Snake",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/snake.webp",
+    "gameUrl": "",
+    "description": "Snake",
+    "fallbackLogo": "assets/game-icons/snake.jpg"
+  },
+  "cactus-mccoy-2": {
+    "name": "Cactus Mccoy 2",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/cactus-mccoy-2.webp",
+    "gameUrl": "",
+    "description": "Cactus Mccoy 2",
+    "fallbackLogo": "assets/game-icons/cactus-mccoy-2.webp"
+  },
+  "math-experta": {
+    "name": "Math Experta",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/math-experta.webp",
+    "gameUrl": "",
+    "description": "Math Experta",
+    "fallbackLogo": "assets/game-icons/math-experta.webp"
+  },
+  "library": {
+    "name": "Library",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/library.webp",
+    "gameUrl": "",
+    "description": "Library",
+    "fallbackLogo": "assets/game-icons/library.webp"
+  },
+  "nova-billiard": {
+    "name": "Nova Billiard",
+    "creator": "Creator not listed",
+    "logo": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/nova-billiard.webp",
+    "gameUrl": "",
+    "description": "Nova Billiard",
+    "fallbackLogo": "assets/game-icons/nova-billiard.jpg"
+  }
+}
