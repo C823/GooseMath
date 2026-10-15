@@ -1,1 +1,1 @@
-GooseMath v1.0.10 — all game icons use jsDelivr /img3/{slug}.webp exclusively.
+GooseMath v1.0.11 — jsDelivr image fallback: .webp → .jpg → .png

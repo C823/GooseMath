@@ -23,3 +23,11 @@ Upload the replacement site files to the repository root. Existing Worker v1.0.4
 Every game card icon and every entry in `games.json` uses:
 `https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/{game-slug}.webp`
 All local icon fallbacks were removed, including the homepage `error` handler and the game detail page's `fallbackLogo` handling. If a CDN filename is absent, its icon will be missing instead of silently showing an older local icon. Check CDN filename availability separately.
+
+## v1.0.11 — Multiple image formats
+For game icons on both `index.html` and `game.html`, GooseMath tries the following URLs in order:
+1. `https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/GAMENAME.webp`
+2. `https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/GAMENAME.jpg`
+3. `https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/img3/GAMENAME.png`
+
+The browser triggers the next format only after the previous image fails. The icon always stays on the jsDelivr `img3` CDN; missing all three results in a broken image (not a local fallback). Existing names and links are unchanged.
